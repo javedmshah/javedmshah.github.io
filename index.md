@@ -8,10 +8,11 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="https://kbroman.org/blog">blog</a></li>
-          <li><a rel="me" href="https:///fosstodon.org/@kbroman">mastodon</a></li>
+          <li><a href="{{ BASE_PATH }}/jshah-public.pdf">cv</a></li>
+          <li><a href="https://github.com/javedmshah">github</a></li>
+          <li><a href="https://www.1kosmos.com/authors/javed-shah/">former blog</a></li>
+          <li><a href="https://backstage.forgerock.com/search/?t=community&q=Javed%20Shah&page=1&sort=_score:desc">former technical blog</a></li>
+          <li><a href="https://orcid.org/0009-0009-7472-5614">orcid (give it time!)</a></li>
       </ul>
   </div>
 </div>
