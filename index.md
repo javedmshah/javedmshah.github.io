@@ -16,8 +16,19 @@ keywords: identity, microservices, artificial intelligence, machine learning, se
       </ul>
   </div>
 </div>
+**Yahoo Finance** [Press report mentioning Javed](https://finance.yahoo.com/news/1kosmos-present-rollout-blueprint-secure-130300726.html) <br>
+**Business Wire** [Press report on Javed](https://www.businesswire.com/news/home/20230314005300/en/1Kosmos-to-Present-Rollout-Blueprint-for-Secure-Passwordless-Access-at-2023-Gartner-IAM-Conference)<br>
+**CityBiz** [Press report featuring Javed ](https://www.citybiz.co/article/115221/1kosmos-appoints-javed-shah-as-vp-and-rich-hlavka-as-svp/)<br>
+**The FIDO Conference** [Speaker profile](https://authenticatecon.com/speaker/javed-shah/)<br>
+**The Paypers** [Press report featuring Javed](https://thepaypers.com/digital-identity-security-online-fraud/1kosmos-partners-forgerock--1262114)<br>
+**Biometric Update** [Press report featuring Javed](https://www.biometricupdate.com/202210/passwordless-authentication-market-to-reach-6-6b-by-2025)<br>
+**Security Boulevard** [Author profile](https://securityboulevard.com/author/javed-shah/)<br>
+**Dark Reading** [Author profile](https://www.darkreading.com/author/javed-shah)<br>
+**RSA Conference** [Speaker profile](https://www.rsaconference.com/experts/Javed%20Shah) <br>
+**TechVision** [Speaker profile](https://techvisionresearch.com/speakers-2022/) <br>
 
-Javed is a product manager with experience running identity assurance and access management product portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley.
+Javed is a product manager with experience running identity assurance and access management product portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley. <br>
+
 Highlights of his work experience:
 
 **1Kosmos Inc.**
