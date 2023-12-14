@@ -1,6 +1,6 @@
-## Karl Broman&rsquo;s website
+## Javed Maqbool Shah&rsquo;s website
 
-See [kbroman.org](https://kbroman.org).
+See [theberkeleymba.org](https://theberkeleymba.org).
 
 ---
 
