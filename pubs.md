@@ -18,7 +18,7 @@ description: Javed Shah's publications
 Proposed implementation framework for automatically generating XACML policies from metadata. You can read it here: <a href="{{ BASE_PATH }}/xacml_auto.pdf">cv</a>
 
 
-### <a name="articles"></a>journal articles
+### <a name="articles"></a>articles
 “Delegated and Chained Authorization with OAuth2 and User Managed Access”
 Submitted to Security of Information Networks SIN18, rejected with review comments.
 note: I have not had the time to revise and resubmit since, but SIN24 is around the corner and I shall give it another try with revisions.
