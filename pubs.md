@@ -15,7 +15,7 @@ description: Javed Shah's publications
     </div>
 </div>
 ### <a name="cs-research"></a>cs research
-Proposed implementation framework for automatically generating XACML policies from metadata. You can read it here: <a href="{{ BASE_PATH }}/xacml_auto.pdf">cv</a>
+Proposed implementation framework for automatically generating XACML policies from metadata. You can read it here: <a href="{{ BASE_PATH }}/xacml_auto.pdf">Programmable XACML policies</a>
 
 
 ### <a name="articles"></a>articles
