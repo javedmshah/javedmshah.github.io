@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Javed M Shah
-description: Javed is a product manager with experience running identity assurance and access management product portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley.
+description: Javed is a technology professional with a passion for research and two decades of experience running identity assurance and access management product portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley.
 keywords: identity, microservices, artificial intelligence, machine learning, security, policies, data, platform, berkeley
 ---
 
