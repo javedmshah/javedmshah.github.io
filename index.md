@@ -10,9 +10,36 @@ keywords: identity, microservices, artificial intelligence, machine learning, se
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/jshah-public.pdf">cv</a></li>
           <li><a href="https://github.com/javedmshah">github</a></li>
-          <li><a href="https://www.1kosmos.com/authors/javed-shah/">former blog</a></li>
-          <li><a href="https://backstage.forgerock.com/search/?t=community&q=Javed%20Shah&page=1&sort=_score:desc">former technical blog</a></li>
-          <li><a href="https://orcid.org/0009-0009-7472-5614">orcid (give it time!)</a></li>
+          <li><a href="https://www.1kosmos.com/authors/javed-shah/">blog</a></li>
+          <li><a href="https://backstage.forgerock.com/search/?t=community&q=Javed%20Shah&page=1&sort=_score:desc">technical blog</a></li>
+          <li><a href="https://orcid.org/0009-0009-7472-5614">orcid</a></li>
       </ul>
   </div>
 </div>
+
+Javed is a product manager with experience running identity assurance and access management product portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley.
+Highlights of his work experience:
+
+**1Kosmos Inc.**
+Global Head of Product (SVP), Blockchain based Identity and Access Assurance Platform
+Responsible for defining and executing the identity and access management vision and AI/AML roadmap for our blockchain based Know Your Customer (KYC) SaaS platform. Designed and built developer.1kosmos.com.
+
+**ForgeRock**
+Sr. Director of Product, Identity Cloud
+Designed and built the global ForgeRock Identity Cloud service on kubernetes in Google Cloud. Led North America pre-sales, responsible for $41M P&L. Established the https://github.com/forgerock/forgeops devops project.
+
+**Prolifics Inc.**
+Director of Professional Services, Americas
+Responsible for a shared $11M P&L with other directors, managed a professional services team of security consultants in the US. Served as lead architect for identity and access management projects.
+
+**University of California, San Francisco**
+Program Architect, Identity & Access Management for Campus, InCommon Federation
+Designed and operationalized the UCSF myaccess.ucsf.edu portal that serves over 150,000 students and staff.
+
+**Kaiser Permanente**
+Architect, Identity & Access Management Services
+Designed and built healthy.kaiserpermanente.org, a global service serving 500,000 users for Kaiser Permanente.
+
+**Persistent Systems, Inc.**
+Senior Staff Software Engineer, Identity
+Senior software developer on the IBM Tivoli Identity platform.
