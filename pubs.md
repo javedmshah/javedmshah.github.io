@@ -21,7 +21,7 @@ Proposed implementation framework for automatically generating XACML policies fr
 ### <a name="articles"></a>articles
 “Delegated and Chained Authorization with OAuth2 and User Managed Access”
 Submitted to Security of Information Networks SIN18, rejected with review comments.
-note: I have not had the time to revise and resubmit since, but SIN24 is around the corner and I shall give it another try with revisions.
+\[I have not had the time to revise and resubmit since, but SIN24 is around the corner and I shall give it another try with revisions.\]
 
 The paper explores “decentralized permissions” as a way to avoid caching pre-baked permission sets at the Authorization Server (AS). Ideas proposed include caching nested permissions to promote faster authorization decision times.
 
