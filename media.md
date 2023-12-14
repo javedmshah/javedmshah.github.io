@@ -52,15 +52,12 @@ description: Javed Shah's public media
 
 ### <a name="authorization"></a>authorization
 [Identity Microservices with Consul on OpenShift](https://community.forgerock.com/t/forgerock-identity-microservices-with-consul-on-openshift)<br>
-[github](https://github.com/javedmshah/token-exchange-microservice)<br>
 
 [Environment Runtime management identity microservices with Hashicorp Consul](https://community.forgerock.com/runtime-configuration-for-identity-microservices-using-consul)<br>
-[github](https://github.com/javedmshah/env-vars-consul-microservices)<br>
 
 [Token Exchange and Delegation using Identity Microservices](https://community.forgerock.com/t/token-exchange-and-delegation-using-identity-microservices)<br>
 
 [Securing your (micro)<br>services with ForgeRock Identity Microservices](https://community.forgerock.com/t/securing-your-micro-services-with-forgerock-identity-microservices)<br>
-[giithub](https://github.com/javedmshah/oauth-token-microservices)<br>
 
 [A framework for dynamic role based authorization](https://forgerock.org/2016/05/framework-dynamic-roles-assignments-openidm)<br>
 
@@ -72,11 +69,10 @@ description: Javed Shah's public media
 [Behavioral biometrics authentication](https://www.linkedin.com/pulse/behavioral-biometrics-authentication-javed-shah-mba-pmp)<br>
 
 [Client and server side scripting for authentication](https://wikis.forgerock.org/confluence/display/openam/Scripting+in+OpenAM+13)<br>
-[github](https://github.com/javedmshah/PolicyEvalScriptedAuthn)<br>
 
 [Extend the power of the ForgeRock Identity Platform through scripting](https://www.slideshare.net/ForgeRock/webinar-extend-the-power-of-the-forgerock-identity-platform-through-scripting)<br>
 
-[WS Federation support with simple modifications to a SAML Engine](https://wikis.forgerock.org/confluence/display/openam/WS-Federation+Custom+SP+Attribute+Mapper)<br>{}
+[WS Federation support with simple modifications to a SAML Engine](https://wikis.forgerock.org/confluence/display/openam/WS-Federation+Custom+SP+Attribute+Mapper)<br>
 
 [2FA predictive authentication using Phone-based risk signals](https://wikis.forgerock.org/confluence/display/openam/2FA+using+TeleSign+PhoneID+Score+API)<br>
 
@@ -87,7 +83,6 @@ description: Javed Shah's public media
 [Knowledge Based Authentication](https://wikis.forgerock.org/confluence/display/openam/Implementing+Knowledge+Based+Authentication)<br>
 
 [Impersonation techniques for Helpdesk management in modern access management products](https://forgerock.org/2016/02/impersonation-authentication-module-for-openam)<br>
-[github](https://github.com/javedmshah/impersonation-policy)<br>
+
 
 [Identity Provider proxy using Active Directory Federation Server](https://wikis.forgerock.org/confluence/display/openam/IDP+Proxy+with+ADFS)<br>
-[github](https://github.com/javedmshah/ADFS2SPAdapter)<br>
