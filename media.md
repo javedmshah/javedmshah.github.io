@@ -8,23 +8,33 @@ description: Javed Shah's public media
         <ul class="nav">
             <li><a href="#authentication">authentication</a></li>
             <li><a href="#authorization">authorization</a></li>
+            <li><a href="#gametheory">gametheory</a></li>
             <li><a href="#decentralized">decentralized intelligence</a></li>
             <li><a href="#orchestration">orchestration</a></li>
             <li><a href="#strategy">strategy</a></li>
+            <li><a href="#leadership">leadership</a></li>
             <li><a href="#cybersecurity">cybersecurity</a></li>
         </ul>
     </div>
 </div>
 ### <a name="decentralized"></a>decentralized intelligence
-
 [40+ articles on Decentralized Identity, User Privacy and Multi-Factor Authentication](https://www.1kosmos.com/authors/javed-shah)
+
+### <a name="leadership"></a>leadership
+[Security Management Leadership](https://theberkeleymba.org/2013/09/15/executive-leadership-for-security-management-guidelines-for-success/)
+[Are you a high ROM Manager?](https://theberkeleymba.org/2013/03/15/are-you-a-high-rom-manager-talking-managerial-energy-here-i/)
 
 ### <a name="strategy"></a>strategy
 [50+ Quantitative analyses of innovation, strategy, finance, valuation, economics and Game Theory](https://theberkeleymba.org)
-
+[Strategy in Wireless Technology and Standards - a case study](https://theberkeleymba.org/2014/01/16/strategy-in-wireless-technology-and-standards/)
 [Strategy models-Five Forces and Game Theory, a narrative in comparison](https://theberkeleymba.org/strategy-models-five-forces-and-game-thoery-a-narrative-in-comparison)
-
 [Strategy for Security, a pure bargaining model](https://theberkeleymba.org/2013/05/25/strategy-for-security-a-pure-bargaining-model)
+[Mergers and Acquisitions- transactional primer](https://theberkeleymba.org/2013/05/22/analysis-of-precedent-transactions-for-ma/)
+[Google Mobile Strategy- a case study](https://theberkeleymba.org/2014/01/18/googles-mobile-strategy/)
+
+### <a name="gametheory"></a>gametheory
+[Case for game theory for influencing customer behavior](https://theberkeleymba.org/2013/09/01/gamification-1/)
+[Gamification orthodoxies: intrinsic and extrinsic rewards](https://theberkeleymba.org/2013/10/01/gamification-orthodoxies/)
 
 ### <a name="cybersecurity"></a>cybersecurity
 [Rainbow Table Attacks](https://www.linkedin.com/pulse/rainbow-table-attacks-javed-shah)
