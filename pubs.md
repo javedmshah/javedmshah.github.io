@@ -19,7 +19,7 @@ Proposed implementation framework for automatically generating XACML policies fr
 
 53 published articles on Security Boulevard, from 2021 to 2023
 #### 2023 (selected)
-[MGM, Ceasar's Hacks: more of the same is coming, and how to stop it](https://securityboulevard.com/2023/09/mgm-caesars-hacks-more-of-the-same-is-coming-your-way-but-heres-how-to-stop-it/), Security Boulevard, 2023 <br> <br>
+[MGM, Ceasar's Hacks: more of the same is coming, and how to stop it](https://securityboulevard.com/2023/09/mgm-caesars-hacks-more-of-the-same-is-coming-your-way-but-heres-how-to-stop-it/), Security Boulevard, 2023 <br>
 [Distributed Ledger: a comprehensive insight for organizations](https://securityboulevard.com/2023/10/distributed-ledger-a-comprehensive-insight-for-organizations/), Security Boulevard, 2023 <br>
 [User Provisioning: The key to unlocking seamless workflow](https://securityboulevard.com/2023/09/user-provisioning-the-key-to-unlocking-seamless-workflow/), Security Boulevard, 2023 <br>
 [A comprehensive insight into Anti-Money Laundering Compliance](https://securityboulevard.com/2023/08/a-comprehensive-insight-into-anti-money-laundering-compliance/), Security Boulevard, 2023 <br>
