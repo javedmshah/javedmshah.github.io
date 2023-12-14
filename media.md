@@ -16,93 +16,64 @@ description: Javed Shah's public media
     </div>
 </div>
 ### <a name="decentralized"></a>decentralized intelligence
-[40+ articles on Decentralized Identity, User Privacy and Multi Factor Authentication]
- (https://www.1kosmos.com/authors/javed-shah)
+
+[40+ articles on Decentralized Identity, User Privacy and Multi-Factor Authentication](https://www.1kosmos.com/authors/javed-shah)
 
 ### <a name="strategy"></a>strategy
-[50+ Quantitative analyses of innovation, strategy, finance, valuation, economics and Game Theory]
- (https://theberkeleymba.org)
+[50+ Quantitative analyses of innovation, strategy, finance, valuation, economics and Game Theory](https://theberkeleymba.org)
 
- [“Strategy models-Five Forces and Game Theory, a narrative in comparison”]
- (https://theberkeleymba.org/strategy-models-five-forces-and-game-thoery-a-narrative-in-comparison)
+[Strategy models-Five Forces and Game Theory, a narrative in comparison](https://theberkeleymba.org/strategy-models-five-forces-and-game-thoery-a-narrative-in-comparison)
 
-[]“Strategy for Security, a pure bargaining model”]
-(https://theberkeleymba.org/2013/05/25/strategy-for-security-a-pure-bargaining-model)
+[Strategy for Security, a pure bargaining model](https://theberkeleymba.org/2013/05/25/strategy-for-security-a-pure-bargaining-model)
 
 ### <a name="cybersecurity"></a>cybersecurity
-[]“Rainbow Table Attacks”]
-(https://www.linkedin.com/pulse/rainbow-table-attacks-javed-shah)
+[Rainbow Table Attacks](https://www.linkedin.com/pulse/rainbow-table-attacks-javed-shah)
+[Gartner IAM Conference, 2022 - thoughts and observations](https://www.linkedin.com/pulse/gartner-iam-thoughts-observations-javed-shah)
 
-### <a name="authentication"></a>authentication
-[“Adaptive Authentication”]
-(https://www.linkedin.com/pulse/adaptive-authentication-javed-shah)
-
-### <a name="cybersecurity"></a>cybersecurity
-[“Zero TrustBest practices for implementation”]
-(https://www.linkedin.com/pulse/zero-trust-best-practices-implementation-javed-shah-mba-pmp)
-
-### <a name="cybersecurity"></a>cybersecurity
-[“Gartner IAM Conference, 2022 - thoughts and observations”]
-(https://www.linkedin.com/pulse/gartner-iam-thoughts-observations-javed-shah)
-
-### <a name="authentication"></a>authentication
-“Behavioral biometrics authentication”
-(https://www.linkedin.com/pulse/behavioral-biometrics-authentication-javed-shah-mba-pmp
+[Zero TrustBest practices for implementation](https://www.linkedin.com/pulse/zero-trust-best-practices-implementation-javed-shah-mba-pmp)
 
 ### <a name="assurance"></a>assurance
-“Synthetic identity and fraud”
-(https://www.linkedin.com/pulse/synthetic-identity-fraud-javed-shah
+[Synthetic identity and fraud](https://www.linkedin.com/pulse/synthetic-identity-fraud-javed-shah)
 
-### <a name="assurance"></a>assurance
-“The Identity Developer platform offered on a cloud-hosted Sandbox”
-(https://www.1kosmos.com/authentication/1kosmos-developer-experience/
+[The Identity Developer platform offered on a cloud-hosted Sandbox](https://www.1kosmos.com/authentication/1kosmos-developer-experience/)
 
 ### <a name="orchestration"></a>orchestration
-“Identity Workflow using Authentication Trees and Google Cloud Functions with Zeebe Cloud”
-https://community.forgerock.com/t/identity-workflow-with-am-using-zeebe-and-cloud-functions/354
+[Identity Workflow using Authentication Trees and Google Cloud Functions with Zeebe Cloud](https://community.forgerock.com/t/identity-workflow-with-am-using-zeebe-and-cloud-functions/354)
+
 ### <a name="authorization"></a>authorization
-“Identity Microservices with Consul on OpenShift”
-(https://community.forgerock.com/t/forgerock-identity-microservices-with-consul-on-openshift
-(https://github.com/javedmshah/token-exchange-microservice
+[Identity Microservices with Consul on OpenShift](https://community.forgerock.com/t/forgerock-identity-microservices-with-consul-on-openshift)
+[github](https://github.com/javedmshah/token-exchange-microservice)
 
-“Environment Runtime management identity microservices with Hashicorp Consul”
-https://community.forgerock.com/runtime-configuration-for-identity-microservices-using-consul
-https://github.com/javedmshah/env-vars-consul-microservices
+[Environment Runtime management identity microservices with Hashicorp Consul](https://community.forgerock.com/runtime-configuration-for-identity-microservices-using-consul)
+[github](https://github.com/javedmshah/env-vars-consul-microservices)
 
-“Token Exchange and Delegation using Identity Microservices”
-https://community.forgerock.com/t/token-exchange-and-delegation-using-identity-microservices
+[Token Exchange and Delegation using Identity Microservices](https://community.forgerock.com/t/token-exchange-and-delegation-using-identity-microservices)
 
-“Securing your (micro)services with ForgeRock Identity Microservices”
-(https://community.forgerock.com/t/securing-your-micro-services-with-forgerock-identity-microservices
-(https://github.com/javedmshah/oauth-token-microservices
+[Securing your (micro)services with ForgeRock Identity Microservices](https://community.forgerock.com/t/securing-your-micro-services-with-forgerock-identity-microservices)
+[giithub](https://github.com/javedmshah/oauth-token-microservices)
 
-“A framework for dynamic role based authorization”
-(https://forgerock.org/2016/05/framework-dynamic-roles-assignments-openidm
+[A framework for dynamic role based authorization](https://forgerock.org/2016/05/framework-dynamic-roles-assignments-openidm)
 
 ### <a name="authentication"></a>authentication
-“Client and server side scripting for authentication”
-https://wikis.forgerock.org/confluence/display/openam/Scripting+in+OpenAM+13
-https://github.com/javedmshah/PolicyEvalScriptedAuthn
+[Adaptive Authentication](https://www.linkedin.com/pulse/adaptive-authentication-javed-shah)
 
-“WS Federation support with simple modifications to a SAML Engine”
-(https://wikis.forgerock.org/confluence/display/openam/WS-Federation+Custom+SP+Attribute+Mapper
+[Behavioral biometrics authentication](https://www.linkedin.com/pulse/behavioral-biometrics-authentication-javed-shah-mba-pmp)
 
-“2FA predictive authentication using Phone-based risk signals”
-(https://wikis.forgerock.org/confluence/display/openam/2FA+using+TeleSign+PhoneID+Score+API
+[Client and server side scripting for authentication](https://wikis.forgerock.org/confluence/display/openam/Scripting+in+OpenAM+13)
+[github](https://github.com/javedmshah/PolicyEvalScriptedAuthn)
 
-“Geo Fencing using reverse geo-location APIs”
-(https://wikis.forgerock.org/confluence/display/openam/Geo+Fencing+ReverseGeocode+API
+[WS Federation support with simple modifications to a SAML Engine](https://wikis.forgerock.org/confluence/display/openam/WS-Federation+Custom+SP+Attribute+Mapper){}
 
-“Deploying social login risk profiles using social networking risk signals”
-(https://wikis.forgerock.org/confluence/pages/viewpage.action?pageId=30113981
+[2FA predictive authentication using Phone-based risk signals](https://wikis.forgerock.org/confluence/display/openam/2FA+using+TeleSign+PhoneID+Score+API)
 
-“Knowledge Based Authentication”
-(https://wikis.forgerock.org/confluence/display/openam/Implementing+Knowledge+Based+Authentication
+[Geo Fencing using reverse geo-location APIs](https://wikis.forgerock.org/confluence/display/openam/Geo+Fencing+ReverseGeocode+API)
 
-“Impersonation techniques for Helpdesk management in modern access management products”
-(https://forgerock.org/2016/02/impersonation-authentication-module-for-openam
-(https://github.com/javedmshah/impersonation-policy
+Deploying social login risk profiles using social networking risk signals](https://wikis.forgerock.org/confluence/pages/viewpage.action?pageId=30113981
 
-“Identity Provider proxy using Active Directory Federation Server”
-(https://wikis.forgerock.org/confluence/display/openam/IDP+Proxy+with+ADFS
-(https://github.com/javedmshah/ADFS2SPAdapter
+[Knowledge Based Authentication](https://wikis.forgerock.org/confluence/display/openam/Implementing+Knowledge+Based+Authentication)
+
+[Impersonation techniques for Helpdesk management in modern access management products](https://forgerock.org/2016/02/impersonation-authentication-module-for-openam)
+[github](https://github.com/javedmshah/impersonation-policy)
+
+[Identity Provider proxy using Active Directory Federation Server](https://wikis.forgerock.org/confluence/display/openam/IDP+Proxy+with+ADFS)
+[github](https://github.com/javedmshah/ADFS2SPAdapter)
