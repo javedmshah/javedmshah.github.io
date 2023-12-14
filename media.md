@@ -68,7 +68,7 @@ description: Javed Shah's public media
 
 [Geo Fencing using reverse geo-location APIs](https://wikis.forgerock.org/confluence/display/openam/Geo+Fencing+ReverseGeocode+API)
 
-Deploying social login risk profiles using social networking risk signals](https://wikis.forgerock.org/confluence/pages/viewpage.action?pageId=30113981
+[Deploying social login risk profiles using social networking risk signals](https://wikis.forgerock.org/confluence/pages/viewpage.action?pageId=30113981)
 
 [Knowledge Based Authentication](https://wikis.forgerock.org/confluence/display/openam/Implementing+Knowledge+Based+Authentication)
 
