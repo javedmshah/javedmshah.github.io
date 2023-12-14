@@ -22,7 +22,7 @@ Highlights of his work experience:
 
 **1Kosmos Inc.**
 Global Head of Product (SVP), Blockchain based Identity and Access Assurance Platform
-Responsible for defining and executing the identity and access management vision and AI/AML roadmap for our blockchain based Know Your Customer (KYC) SaaS platform. Designed and built developer.1kosmos.com.
+Responsible for defining and executing the vision and roadmap for a know your customer identity assurance platform. Designed and built developer.1kosmos.com.
 
 **ForgeRock**
 Sr. Director of Product, Identity Cloud
