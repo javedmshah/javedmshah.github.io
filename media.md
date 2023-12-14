@@ -10,6 +10,8 @@ description: Javed Shah's public media
             <li><a href="#authorization">authorization</a></li>
             <li><a href="#decentralized">decentralized intelligence</a></li>
             <li><a href="#orchestration">orchestration</a></li>
+            <li><a href="#strategy">strategy</a></li>
+            <li><a href="#cybersecurity">cybersecurity</a></li>
         </ul>
     </div>
 </div>
@@ -17,33 +19,48 @@ description: Javed Shah's public media
 40+ articles on Decentralized Identity, User Privacy and Multi Factor Authentication
  https://www.1kosmos.com/authors/javed-shah
 
+### <a name="strategy"></a>strategy
  50+ Quantitative analyses of innovation, strategy, finance, valuation, economics and Game Theory
  https://theberkeleymba.org
 
+ “Strategy models-Five Forces and Game Theory, a narrative in comparison”
+ https://theberkeleymba.org/strategy-models-five-forces-and-game-thoery-a-narrative-in-comparison
+
+ “Strategy for Security, a pure bargaining model”
+ https://theberkeleymba.org/2013/05/25/strategy-for-security-a-pure-bargaining-model
+
+### <a name="cybersecurity"></a>cybersecurity
 “Rainbow Table Attacks”
  https://www.linkedin.com/pulse/rainbow-table-attacks-javed-shah
 
+### <a name="authentication"></a>authentication
 “Adaptive Authentication”
  https://www.linkedin.com/pulse/adaptive-authentication-javed-shah
 
+### <a name="cybersecurity"></a>cybersecurity
 “Zero TrustBest practices for implementation”
  https://www.linkedin.com/pulse/zero-trust-best-practices-implementation-javed-shah-mba-pmp
 
+### <a name="cybersecurity"></a>cybersecurity
 “Gartner IAM Conference, 2022 - thoughts and observations”
  https://www.linkedin.com/pulse/gartner-iam-thoughts-observations-javed-shah
 
+### <a name="authentication"></a>authentication
 “Behavioral biometrics authentication”
  https://www.linkedin.com/pulse/behavioral-biometrics-authentication-javed-shah-mba-pmp
 
+### <a name="assurance"></a>assurance
 “Synthetic identity and fraud”
  https://www.linkedin.com/pulse/synthetic-identity-fraud-javed-shah
 
+### <a name="assurance"></a>assurance
 “The Identity Developer platform offered on a cloud-hosted Sandbox”
  https://www.1kosmos.com/authentication/1kosmos-developer-experience/
 
+### <a name="orchestration"></a>orchestration
 “Identity Workflow using Authentication Trees and Google Cloud Functions with Zeebe Cloud”
 https://community.forgerock.com/t/identity-workflow-with-am-using-zeebe-and-cloud-functions/354
-
+### <a name="authorization"></a>authorization
 “Identity Microservices with Consul on OpenShift”
  https://community.forgerock.com/t/forgerock-identity-microservices-with-consul-on-openshift
  https://github.com/javedmshah/token-exchange-microservice
@@ -62,6 +79,7 @@ https://community.forgerock.com/t/token-exchange-and-delegation-using-identity-m
 “A framework for dynamic role based authorization”
  https://forgerock.org/2016/05/framework-dynamic-roles-assignments-openidm
 
+### <a name="authentication"></a>authentication
 “Client and server side scripting for authentication”
 https://wikis.forgerock.org/confluence/display/openam/Scripting+in+OpenAM+13
 https://github.com/javedmshah/PolicyEvalScriptedAuthn
@@ -88,9 +106,3 @@ https://github.com/javedmshah/PolicyEvalScriptedAuthn
 “Identity Provider proxy using Active Directory Federation Server”
  https://wikis.forgerock.org/confluence/display/openam/IDP+Proxy+with+ADFS
  https://github.com/javedmshah/ADFS2SPAdapter
-
-“Strategy modelsFive Forces and Game Theory, a narrative in comparison”
-https://theberkeleymba.org/strategy-models-five-forces-and-game-thoery-a-narrative-in-comparison
-
-“Strategy for Securitya pure bargaining model”
-https://theberkeleymba.org/2013/05/25/strategy-for-security-a-pure-bargaining-model
