@@ -3,17 +3,6 @@ layout: page
 title: about
 description: Javed is a technology professional with a passion for research and two decades of experience running identity assurance and access management product portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley.
 ---
-<table class="wide">
-<tr>
-  <td class="left">
-  **Yahoo Finance**
-  </td>
-  <td class="right">
-  [Yahoo Finance: press report mentioning Javed](https://finance.yahoo.com/news/1kosmos-present-rollout-blueprint-secure-130300726.html)
-  </td>
-</tr>
-
-</table>
 
 **Yahoo Finance** [Yahoo Finance: press report mentioning Javed](https://finance.yahoo.com/news/1kosmos-present-rollout-blueprint-secure-130300726.html) <br>
 **Business Wire** [Business Wire: press report on Javed](https://www.businesswire.com/news/home/20230314005300/en/1Kosmos-to-Present-Rollout-Blueprint-for-Secure-Passwordless-Access-at-2023-Gartner-IAM-Conference)<br>

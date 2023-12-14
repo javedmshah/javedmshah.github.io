@@ -65,12 +65,16 @@ description: Javed Shah's public media
 [A framework for dynamic role based authorization](https://forgerock.org/2016/05/framework-dynamic-roles-assignments-openidm)
 
 ### <a name="authentication"></a>authentication
+[The first FIDO mobile app integration!](https://www.slideshare.net/ForgeRock/technical-overview-of-fido-solution)
+
 [Adaptive Authentication](https://www.linkedin.com/pulse/adaptive-authentication-javed-shah)
 
 [Behavioral biometrics authentication](https://www.linkedin.com/pulse/behavioral-biometrics-authentication-javed-shah-mba-pmp)
 
 [Client and server side scripting for authentication](https://wikis.forgerock.org/confluence/display/openam/Scripting+in+OpenAM+13)
 [github](https://github.com/javedmshah/PolicyEvalScriptedAuthn)
+
+[Extend the power of the ForgeRock Identity Platform through scripting](https://www.slideshare.net/ForgeRock/webinar-extend-the-power-of-the-forgerock-identity-platform-through-scripting)
 
 [WS Federation support with simple modifications to a SAML Engine](https://wikis.forgerock.org/confluence/display/openam/WS-Federation+Custom+SP+Attribute+Mapper){}
 
