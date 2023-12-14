@@ -3,12 +3,15 @@ layout: page
 title: about
 description: Javed is a technology professional with a passion for research and two decades of experience running identity assurance and access management product portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley.
 ---
-[CityBiz: featuring Javed ](https://www.citybiz.co/article/115221/1kosmos-appoints-javed-shah-as-vp-and-rich-hlavka-as-svp/)
-[The FIDO Conference: Speaker profile](https://authenticatecon.com/speaker/javed-shah/)
-[The Paypers: featuring Javed](https://thepaypers.com/digital-identity-security-online-fraud/1kosmos-partners-forgerock--1262114)
-[Biometric Update: featuring Javed](https://www.biometricupdate.com/202210/passwordless-authentication-market-to-reach-6-6b-by-2025)
-[Security Boulevard: Author profile](https://securityboulevard.com/author/javed-shah/)
-[Dark Reading: Author profile](https://www.darkreading.com/author/javed-shah)
+**Yahoo Finance** [Yahoo Finance: press report mentioning Javed](https://finance.yahoo.com/news/1kosmos-present-rollout-blueprint-secure-130300726.html)
+**Business Wire** [Business Wire: press report on Javed](https://www.businesswire.com/news/home/20230314005300/en/1Kosmos-to-Present-Rollout-Blueprint-for-Secure-Passwordless-Access-at-2023-Gartner-IAM-Conference)
+**CityBiz** [CityBiz: featuring Javed ](https://www.citybiz.co/article/115221/1kosmos-appoints-javed-shah-as-vp-and-rich-hlavka-as-svp/)\n
+**The FIDO Conference** [The FIDO Conference: Speaker profile](https://authenticatecon.com/speaker/javed-shah/)\n
+**The Paypers** [The Paypers: featuring Javed](https://thepaypers.com/digital-identity-security-online-fraud/1kosmos-partners-forgerock--1262114)\n
+**Biometric Update** [Biometric Update: featuring Javed](https://www.biometricupdate.com/202210/passwordless-authentication-market-to-reach-6-6b-by-2025)\n
+**Security Boulevard** [Security Boulevard: Author profile](https://securityboulevard.com/author/javed-shah/)\n
+**Dark Reading** [Dark Reading: Author profile](https://www.darkreading.com/author/javed-shah)\n
+
 
 Javed received a BS in [Computer Science](http://www.unipune.ac.in/dept/science/computer_science/default.htm) with emphasis in Artificial Intelligence in 2001 from the University of Pune, and an [MBA in Strategy](https://haas.berkeley.edu/) in 2014 from the
 University of California, Berkeley.
