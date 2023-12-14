@@ -11,6 +11,7 @@ description: Javed is a technology professional with a passion for research and 
 **Biometric Update** [Biometric Update: featuring Javed](https://www.biometricupdate.com/202210/passwordless-authentication-market-to-reach-6-6b-by-2025)<br>
 **Security Boulevard** [Security Boulevard: Author profile](https://securityboulevard.com/author/javed-shah/)<br>
 **Dark Reading** [Dark Reading: Author profile](https://www.darkreading.com/author/javed-shah)<br>
+**RSA Conference** [RSA Conference: Speaker profile](https://www.rsaconference.com/experts/Javed%20Shah) <br>
 
 Javed received a BS in [Computer Science](http://www.unipune.ac.in/dept/science/computer_science/default.htm) with emphasis in Artificial Intelligence in 2001 from the University of Pune, and an [MBA in Strategy](https://haas.berkeley.edu/) in 2014 from the
 University of California, Berkeley.
