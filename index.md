@@ -27,7 +27,7 @@ keywords: identity, microservices, artificial intelligence, machine learning, se
 **RSA Conference** [Speaker profile](https://www.rsaconference.com/experts/Javed%20Shah) <br>
 **TechVision** [Speaker profile](https://techvisionresearch.com/speakers-2022/) <br>
 
-Javed is a product manager with experience running identity assurance and access management product portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley. <br>
+***Javed is a technology professional with a passion for research and two decades of experience running identity assurance and access management product portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley.***
 
 Highlights of his work experience:
 
