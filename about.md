@@ -7,7 +7,7 @@ description: Javed is a product manager with experience running identity assuran
 Javed received a BS in [Computer Science](http://www.unipune.ac.in/dept/science/computer_science/default.htm) with emphasis in Artificial Intelligence in 2001 from the University of Pune, and an [MBA in Strategy](https://haas.berkeley.edu/) in 2014 from the
 University of California, Berkeley.
 
-"Be curious."
+"Be curious." \n
 The cross-disciplinary duality of Stephen Hawking’s eternal words and the Hindu philosophy of seeing the universe as intricately entwined with our inner selves guides my personal philosophy in life and career.
 
 
