@@ -29,7 +29,7 @@ Proposed implementation framework for automatically generating XACML policies fr
 [What is Identity Threat Detection and Response](https://securityboulevard.com/2023/07/what-is-identity-threat-detection-response-itdr/), Security Boulevard, 2023 <br>
 [Liveness detection to prevent Biometric Spoofing](https://securityboulevard.com/2023/05/what-is-liveness-detection-preventing-biometric-spoofing/), Security Boulevard, 2023 <br>
 
-#### 2022<br> (selected)
+#### 2022 (selected)
 [OpenID Connect vs Security Assertion Markup Language](https://securityboulevard.com/2022<br>/10/oidc-vs-saml-whats-the-difference/), Security Boulevard, 2022<br>
 [Principle of Least Privilege](https://securityboulevard.com/2022<br>/10/what-is-the-principle-of-least-privilege-polp/), Security Boulevard, 2022<br>
 [How to implement a Zero Trust Security Model](https://securityboulevard.com/2022<br>/09/how-to-implement-a-zero-trust-security-model/), Security Boulevard, 2022<br>
