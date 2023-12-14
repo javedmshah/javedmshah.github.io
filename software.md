@@ -33,5 +33,4 @@ This repo demonstrates how to build an envconsul container for the ForgeRock Ide
 **java** code for implementing challenge response scenarios in openam. Old code, unsupported.
 
 #### <a name="https://github.com/javedmshah/andrews-pitchfork-montecarlo">risk modeling</a>
-
-implement Andrew's pitchfork trading techniques in C# and run monte carlo simulations for minimizing max drawdowns.
+**c#** code to implement Andrew's pitchfork trading techniques and run monte carlo simulations for minimizing max drawdowns.
