@@ -39,24 +39,24 @@ Proposed implementation framework for automatically generating XACML policies fr
 
 ### <a name="articles"></a>articles
 [Understanding and Mitigating Single Sign-on Risk](https://www.darkreading.com/endpoint-security/understanding-and-mitigating-single-sign-on-risk), Dark Reading, June 14 2022
-
-“Delegated and Chained Authorization with OAuth2 and User Managed Access”
-Submitted to Security of Information Networks SIN18, rejected with review comments.
-\[I have not had the time to revise and resubmit since, but SIN24 is around the corner and I shall give it another try with revisions.\]
+***Delegated and Chained Authorization with OAuth2 and User Managed Access***
+[sinconf-delegated-authorization](/sinconf-delegated-authz.pdf)
+Submitted to Security of Information Networks SIN18, rejected with review comments.<br>
+\[_I have not had the time to revise and resubmit since, but SIN24 is around the corner and I shall give it another try with revisions._\]
 
 The paper explores “decentralized permissions” as a way to avoid caching pre-baked permission sets at the Authorization Server (AS). Ideas proposed include caching nested permissions to promote faster authorization decision times.
 
 
-“Religious Hegemony and Political Regime: Examining the Inverted U Relationship with Conflict.” Journal Article with Shah, Tamanna M.
+***Religious Hegemony and Political Regime: Examining the Inverted U Relationship with Conflict.*** Journal Article with Shah, Tamanna M.
 Submission for American Sociological Review (ASR), 2024
 
 ### <a name="chapters"></a>book chapters
 #### 2024*
 
-“AI Intersections: Amplifying Children and Youth Voices in Conflict Zones”, Shah Javed M., Shah Tamanna M.
+***AI Intersections: Amplifying Children and Youth Voices in Conflict Zones***, Shah Javed M., Shah Tamanna M.
 Book Chapter accepted for Children and Youth as ‘Sites of Resistance’ in Armed Conflict, Volume I (Sponsored by American Sociological Association (ASA) Section on Children and Youth, Emerald Publishers), May 2024
 
 
-“AI-Enhanced Resilience: Empowering Youth Voices in Conflict Zones”
+***AI-Enhanced Resilience: Empowering Youth Voices in Conflict Zones***
 , Shah Javed M., Shah Tamanna M.
 Book Chapter accepted for Children and Youth as ‘Sites of Resistance’ in Armed Conflict, Volume I (Sponsored by American Sociological Association (ASA) Section on Children and Youth, Emerald Publishers), May 2024
