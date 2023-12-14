@@ -19,15 +19,15 @@ Proposed implementation framework for automatically generating XACML policies fr
 
 53 published articles on Security Boulevard, from 2021 to 2023
 #### 2023 (selected)
-[MGM, Ceasar's Hacks: more of the same is coming, and how to stop it](https://securityboulevard.com/2023/09/mgm-caesars-hacks-more-of-the-same-is-coming-your-way-but-heres-how-to-stop-it/), Security Boulevard, 2023
-[Distributed Ledger: a comprehensive insight for organizations](https://securityboulevard.com/2023/10/distributed-ledger-a-comprehensive-insight-for-organizations/), Security Boulevard, 2023
-[User Provisioning: The key to unlocking seamless workflow](https://securityboulevard.com/2023/09/user-provisioning-the-key-to-unlocking-seamless-workflow/), Security Boulevard, 2023
-[A comprehensive insight into Anti-Money Laundering Compliance](https://securityboulevard.com/2023/08/a-comprehensive-insight-into-anti-money-laundering-compliance/), Security Boulevard, 2023
-[Continuous Authentication: a dynamic approach to user verification](https://securityboulevard.com/2023/08/continuous-authentication-a-dynamic-approach-to-user-verification/), Security Boulevard, 2023
-[What is Identity Orchestration](https://securityboulevard.com/2023/08/what-is-identity-orchestration-next-evolution-of-iam/), Security Boulevard, 2023
-[Unlocking security with Document Verification](https://securityboulevard.com/2023/08/unlocking-security-with-document-verification-a-detailed-overview/), Security Boulevard, 2023
-[What is Identity Threat Detection and Response](https://securityboulevard.com/2023/07/what-is-identity-threat-detection-response-itdr/), Security Boulevard, 2023
-[Liveness detection to prevent Biometric Spoofing](https://securityboulevard.com/2023/05/what-is-liveness-detection-preventing-biometric-spoofing/), Security Boulevard, 2023
+[MGM, Ceasar's Hacks: more of the same is coming, and how to stop it](https://securityboulevard.com/2023/09/mgm-caesars-hacks-more-of-the-same-is-coming-your-way-but-heres-how-to-stop-it/), Security Boulevard, 2023 <br> <br>
+[Distributed Ledger: a comprehensive insight for organizations](https://securityboulevard.com/2023/10/distributed-ledger-a-comprehensive-insight-for-organizations/), Security Boulevard, 2023 <br>
+[User Provisioning: The key to unlocking seamless workflow](https://securityboulevard.com/2023/09/user-provisioning-the-key-to-unlocking-seamless-workflow/), Security Boulevard, 2023 <br>
+[A comprehensive insight into Anti-Money Laundering Compliance](https://securityboulevard.com/2023/08/a-comprehensive-insight-into-anti-money-laundering-compliance/), Security Boulevard, 2023 <br>
+[Continuous Authentication: a dynamic approach to user verification](https://securityboulevard.com/2023/08/continuous-authentication-a-dynamic-approach-to-user-verification/), Security Boulevard, 2023 <br>
+[What is Identity Orchestration](https://securityboulevard.com/2023/08/what-is-identity-orchestration-next-evolution-of-iam/), Security Boulevard, 2023 <br>
+[Unlocking security with Document Verification](https://securityboulevard.com/2023/08/unlocking-security-with-document-verification-a-detailed-overview/), Security Boulevard, 2023 <br>
+[What is Identity Threat Detection and Response](https://securityboulevard.com/2023/07/what-is-identity-threat-detection-response-itdr/), Security Boulevard, 2023 <br>
+[Liveness detection to prevent Biometric Spoofing](https://securityboulevard.com/2023/05/what-is-liveness-detection-preventing-biometric-spoofing/), Security Boulevard, 2023 <br>
 
 #### 2022 (selected)
 [OpenID Connect vs Security Assertion Markup Language](https://securityboulevard.com/2022/10/oidc-vs-saml-whats-the-difference/), Security Boulevard, 2022
