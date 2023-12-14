@@ -7,8 +7,7 @@ description: prototype code for enabling identity use cases. NOT for use in prod
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="https://github.com/javedmshah">github</a></li>
-            li>
+            <li><a href="https://github.com/javedmshah">github</a></li>            
         </ul>
     </div>
 </div>

@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+title: Javed M Shah
+description: Javed is a product manager with experience running identity assurance and access management product portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley.
+keywords: identity, microservices, artificial intelligence, machine learning, security, policies, data, platform, berkeley
 ---
 
 <div class="navbar">
