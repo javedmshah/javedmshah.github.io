@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tutorials
+title: public media
 description: Javed Shah's public media
 ---
 <div class="navbar">
