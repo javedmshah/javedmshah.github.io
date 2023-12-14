@@ -3,9 +3,19 @@ layout: page
 title: tutorials
 description: Javed Shah's public media
 ---
-
-2023  Shah, Javed M. 40+ articles on Decentralized Identity, User Privacy and Multi Factor Authentication
- https://www.1kosmos.com/authors/javed-shah
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#authentication">authentication</a></li>
+            <li><a href="#authorization">authorization</a></li>
+            <li><a href="#decentralized">decentralized intelligence</a></li>
+            <li><a href="#orchestration">orchestration</a></li>
+        </ul>
+    </div>
+</div>
+### <a name="decentralized"></a>decentralized intelligence
+[40+ articles on Decentralized Identity, User Privacy and Multi Factor Authentication]
+ (https://www.1kosmos.com/authors/javed-shah)
 
 2023 Shah, Javed M. “Rainbow Table Attacks”
  https://www.linkedin.com/pulse/rainbow-table-attacks-javed-shah
