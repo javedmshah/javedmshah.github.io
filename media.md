@@ -59,7 +59,7 @@ description: Javed Shah's public media
 
 [Securing your (micro)services with ForgeRock Identity Microservices](https://community.forgerock.com/t/1854){:target="_blank"}<br>
 
-[A framework for dynamic role based authorization](https://forgerock.org/2016/05/framework-dynamic-roles-assignments-openidm){:target="_blank"}<br>
+[A framework for dynamic role based authorization](https://wikis.forgerock.org/confluence/display/openidm/A+Framework+for+Dynamic+Roles+and+Assignments+in+OpenIDM){:target="_blank"}<br>
 
 ### <a name="authentication"></a>authentication
 [The first FIDO mobile app integration!](https://www.slideshare.net/ForgeRock/technical-overview-of-fido-solution){:target="_blank"}<br>
