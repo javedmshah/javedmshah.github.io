@@ -15,7 +15,7 @@ description: Javed Shah's publications
     </div>
 </div>
 ### <a name="cs-research"></a>cs research
-Proposed implementation framework for automatically generating XACML policies from metadata. You can read it here: <a href="{{ BASE_PATH }}/xacml_auto.pdf">Programmable XACML policies</a>
+Proposed implementation framework for automatically generating XACML policies from metadata. You can read it here: <a href="{{ BASE_PATH }}/xacml_auto.pdf" target="_blank">Programmable XACML policies</a>
 
 53 published articles on Security Boulevard, from 2021 to 2023
 #### 2023 (selected)
