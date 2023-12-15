@@ -6,6 +6,7 @@ description: Javed Shah's public media
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#cybersecurity">cybersecurity</a></li>
             <li><a href="#authentication">authentication</a></li>
             <li><a href="#authorization">authorization</a></li>
             <li><a href="#gametheory">game theory</a></li>
@@ -13,10 +14,16 @@ description: Javed Shah's public media
             <li><a href="#orchestration">orchestration</a></li>
             <li><a href="#strategy">strategy</a></li>
             <li><a href="#leadership">leadership</a></li>
-            <li><a href="#cybersecurity">cybersecurity</a></li>
         </ul>
     </div>
 </div>
+
+### <a name="cybersecurity"></a>cybersecurity
+[Containing Third Party Identity Risk](https://www.rsaconference.com/Library/blog/containing-third-party-identity-risk){:target="_blank"}<br>
+[Adversary-In-The-Middle (AiTM) Phishing Attacks](https://securityboulevard.com/2023/02/what-is-an-adversary-in-the-middle-aitm-phishing-attack/){:target="_blank"}<br>
+[Rainbow Table Attacks](https://www.linkedin.com/pulse/rainbow-table-attacks-javed-shah){:target="_blank"}<br>
+[Gartner IAM Conference, 2022 - thoughts and observations](https://www.linkedin.com/pulse/gartner-iam-thoughts-observations-javed-shah){:target="_blank"}<br>
+[Zero TrustBest practices for implementation](https://www.linkedin.com/pulse/zero-trust-best-practices-implementation-javed-shah-mba-pmp){:target="_blank"}<br>
 ### <a name="decentralized"></a>decentralized intelligence
 [40+ articles on Decentralized Identity, User Privacy and Multi-Factor Authentication](https://www.1kosmos.com/authors/javed-shah){:target="_blank"}<br>
 
@@ -35,12 +42,6 @@ description: Javed Shah's public media
 ### <a name="gametheory"></a>game theory
 [Case for game theory for influencing customer behavior](https://theberkeleymba.org/2013/09/01/gamification-1/){:target="_blank"}<br>
 [Gamification orthodoxies: intrinsic and extrinsic rewards](https://theberkeleymba.org/2013/10/01/gamification-orthodoxies/){:target="_blank"}<br>
-
-### <a name="cybersecurity"></a>cybersecurity
-[Adversary-In-The-Middle (AiTM) Phishing Attacks](https://securityboulevard.com/2023/02/what-is-an-adversary-in-the-middle-aitm-phishing-attack/){:target="_blank"}<br>
-[Rainbow Table Attacks](https://www.linkedin.com/pulse/rainbow-table-attacks-javed-shah){:target="_blank"}<br>
-[Gartner IAM Conference, 2022 - thoughts and observations](https://www.linkedin.com/pulse/gartner-iam-thoughts-observations-javed-shah){:target="_blank"}<br>
-[Zero TrustBest practices for implementation](https://www.linkedin.com/pulse/zero-trust-best-practices-implementation-javed-shah-mba-pmp){:target="_blank"}<br>
 
 ### <a name="assurance"></a>assurance
 [Synthetic identity and fraud](https://www.linkedin.com/pulse/synthetic-identity-fraud-javed-shah){:target="_blank"}<br>
