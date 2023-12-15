@@ -40,7 +40,7 @@ Proposed implementation framework for automatically generating XACML policies fr
 ### <a name="articles"></a>articles
 [Understanding and Mitigating Single Sign-on Risk](https://www.darkreading.com/endpoint-security/understanding-and-mitigating-single-sign-on-risk){:target="_blank"}, Dark Reading, June 14 2022<br>
 ***Delegated and Chained Authorization with OAuth2 and User Managed Access***
-[sinconf-delegated-authz](/sinconf-delegated-authz.pdf)<br>
+[sinconf-delegated-authz](/sinconf-delegated-authz.pdf){:target="_blank"}<br>
 Submitted to Security of Information Networks SIN18, _rejected with review comments._<br>
 \[_I have not had the time to revise and resubmit since, but SIN24 is around the corner and I shall give it another try with revisions._\]
 
@@ -54,9 +54,9 @@ Submission for American Sociological Review (ASR), 2024
 #### 2024*
 
 ***AI Intersections: Amplifying Children and Youth Voices in Conflict Zones***, Shah Javed M., Shah Tamanna M.<br>
-Book Chapter accepted for Children and Youth as ‘Sites of Resistance’ in Armed Conflict, Volume I (Sponsored by American Sociological Association (ASA) Section on Children and Youth, Emerald Publishers){:target="_blank"}, May 2024
+Book Chapter accepted for Children and Youth as ‘Sites of Resistance’ in Armed Conflict, Volume I (Sponsored by American Sociological Association (ASA) Section on Children and Youth, Emerald Publishers), May 2024
 
 
 ***AI-Enhanced Resilience: Empowering Youth Voices in Conflict Zones***
 , Shah Javed M., Shah Tamanna M.<br>
-Book Chapter accepted for Children and Youth as ‘Sites of Resistance’ in Armed Conflict, Volume I (Sponsored by American Sociological Association (ASA) Section on Children and Youth, Emerald Publishers){:target="_blank"}, May 2024
+Book Chapter accepted for Children and Youth as ‘Sites of Resistance’ in Armed Conflict, Volume I (Sponsored by American Sociological Association (ASA) Section on Children and Youth, Emerald Publishers), May 2024
