@@ -32,7 +32,7 @@ keywords: identity, microservices, artificial intelligence, machine learning, se
 Highlights of his work experience:
 
 **1Kosmos Inc.**
-Global Head of Product (SVP), Blockchain based Identity and Access Assurance Platform
+Global Head of Product (SVP)
 Responsible for defining and executing the vision and roadmap for a know your customer identity assurance platform. Designed and built [developer.1kosmos.com](https://developer.1kosmos.com){:target="_blank"}
 
 **ForgeRock**
