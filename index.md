@@ -45,11 +45,11 @@ Responsible for a shared $11M P&L with other directors, managed a professional s
 
 **University of California, San Francisco**
 Program Architect, Identity & Access Management for Campus, InCommon Federation
-Designed and operationalized the UCSF myaccess.ucsf.edu portal that serves over 150,000 students and staff.
+Designed and operationalized the UCSF [myaccess.ucsf.edu](myaccess.ucsf.edu) portal that serves over 150,000 students and staff.
 
 **Kaiser Permanente**
 Architect, Identity & Access Management Services
-Designed and built healthy.kaiserpermanente.org, a global service serving 500,000 users for Kaiser Permanente.
+Designed and built [Healthy KP](healthy.kaiserpermanente.org), a global service serving 500,000 users for Kaiser Permanente.
 
 **Persistent Systems, Inc.**
 Senior Staff Software Engineer, Identity
