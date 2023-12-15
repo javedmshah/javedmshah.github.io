@@ -16,16 +16,16 @@ keywords: identity, microservices, artificial intelligence, machine learning, se
       </ul>
   </div>
 </div>
-**Yahoo Finance** [Press report mentioning Javed](https://finance.yahoo.com/news/1kosmos-present-rollout-blueprint-secure-130300726.html) <br>
-**Business Wire** [Press report on Javed](https://www.businesswire.com/news/home/20230314005300/en/1Kosmos-to-Present-Rollout-Blueprint-for-Secure-Passwordless-Access-at-2023-Gartner-IAM-Conference)<br>
-**CityBiz** [Press report featuring Javed ](https://www.citybiz.co/article/115221/1kosmos-appoints-javed-shah-as-vp-and-rich-hlavka-as-svp/)<br>
-**The FIDO Conference** [Speaker profile](https://authenticatecon.com/speaker/javed-shah/)<br>
-**The Paypers** [Press report featuring Javed](https://thepaypers.com/digital-identity-security-online-fraud/1kosmos-partners-forgerock--1262114)<br>
-**Biometric Update** [Press report featuring Javed](https://www.biometricupdate.com/202210/passwordless-authentication-market-to-reach-6-6b-by-2025)<br>
-**Security Boulevard** [Author profile](https://securityboulevard.com/author/javed-shah/)<br>
-**Dark Reading** [Author profile](https://www.darkreading.com/author/javed-shah)<br>
-**RSA Conference** [Speaker profile](https://www.rsaconference.com/experts/Javed%20Shah) <br>
-**TechVision** [Speaker profile](https://techvisionresearch.com/speakers-2022/) <br>
+**Yahoo Finance** [Press report mentioning Javed](https://finance.yahoo.com/news/1kosmos-present-rollout-blueprint-secure-130300726.html){:target="_blank"} <br>
+**Business Wire** [Press report on Javed](https://www.businesswire.com/news/home/20230314005300/en/1Kosmos-to-Present-Rollout-Blueprint-for-Secure-Passwordless-Access-at-2023-Gartner-IAM-Conference){:target="_blank"}<br>
+**CityBiz** [Press report featuring Javed ](https://www.citybiz.co/article/115221/1kosmos-appoints-javed-shah-as-vp-and-rich-hlavka-as-svp/){:target="_blank"}<br>
+**The FIDO Conference** [Speaker profile](https://authenticatecon.com/speaker/javed-shah/){:target="_blank"}<br>
+**The Paypers** [Press report featuring Javed](https://thepaypers.com/digital-identity-security-online-fraud/1kosmos-partners-forgerock--1262114){:target="_blank"}<br>
+**Biometric Update** [Press report featuring Javed](https://www.biometricupdate.com/202210/passwordless-authentication-market-to-reach-6-6b-by-2025){:target="_blank"}<br>
+**Security Boulevard** [Author profile](https://securityboulevard.com/author/javed-shah/){:target="_blank"}<br>
+**Dark Reading** [Author profile](https://www.darkreading.com/author/javed-shah){:target="_blank"}<br>
+**RSA Conference** [Speaker profile](https://www.rsaconference.com/experts/Javed%20Shah){:target="_blank"} <br>
+**TechVision** [Speaker profile](https://techvisionresearch.com/speakers-2022/){:target="_blank"} <br>
 
 ***Javed is a technology professional with a passion for research and two decades of experience running identity assurance and access management product portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley.***
 
@@ -33,7 +33,7 @@ Highlights of his work experience:
 
 **1Kosmos Inc.**
 Global Head of Product (SVP), Blockchain based Identity and Access Assurance Platform
-Responsible for defining and executing the vision and roadmap for a know your customer identity assurance platform. Designed and built [developer.1kosmos.com](developer.1kosmos.com)
+Responsible for defining and executing the vision and roadmap for a know your customer identity assurance platform. Designed and built [developer.1kosmos.com](developer.1kosmos.com){:target="_blank"}
 
 **ForgeRock**
 Sr. Director of Product, Identity Cloud

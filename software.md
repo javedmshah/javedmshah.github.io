@@ -18,7 +18,7 @@ description: prototype code for enabling identity use cases. NOT for use in prod
 **java** code to implement impersonation via helpdesk in openam. This is old code but demonstrative of how to implement "insecure" impersonation. any modern facility would add step up authentication of some sort.
 
 #### <a name="https://github.com/javedmshah/token-exchange-microservice">Implementation of the OAuth 2.0 token exchange RFC 8693</a>
-**groovy** code for the independent research documented here [Token Exchange and Delegation](https://community.forgerock.com/t/token-exchange-and-delegation-using-identity-microservices)
+**groovy** code for the independent research documented here [Token Exchange and Delegation](https://community.forgerock.com/t/token-exchange-and-delegation-using-identity-microservices){:target="_blank"}
 
 #### <a name="https://github.com/javedmshah/oauth-token-microservices">OAuth 2.0 microservices for tokenized grants</a>
 **rego** code for open policy agent.
