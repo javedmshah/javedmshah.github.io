@@ -8,7 +8,7 @@ description: Javed Shah's public media
         <ul class="nav">
             <li><a href="#authentication">authentication</a></li>
             <li><a href="#authorization">authorization</a></li>
-            <li><a href="#gametheory">gametheory</a></li>
+            <li><a href="#gametheory">game theory</a></li>
             <li><a href="#decentralized">decentralized intelligence</a></li>
             <li><a href="#orchestration">orchestration</a></li>
             <li><a href="#strategy">strategy</a></li>
@@ -32,7 +32,7 @@ description: Javed Shah's public media
 [Mergers and Acquisitions- transactional primer](https://theberkeleymba.org/2013/05/22/analysis-of-precedent-transactions-for-ma/){:target="_blank"}<br>
 [Google Mobile Strategy- a case study](https://theberkeleymba.org/2014/01/18/googles-mobile-strategy/){:target="_blank"}<br>
 
-### <a name="gametheory"></a>gametheory
+### <a name="gametheory"></a>game theory
 [Case for game theory for influencing customer behavior](https://theberkeleymba.org/2013/09/01/gamification-1/){:target="_blank"}<br>
 [Gamification orthodoxies: intrinsic and extrinsic rewards](https://theberkeleymba.org/2013/10/01/gamification-orthodoxies/){:target="_blank"}<br>
 
