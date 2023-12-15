@@ -48,16 +48,16 @@ description: Javed Shah's public media
 [The Identity Developer platform offered on a cloud-hosted Sandbox](https://www.1kosmos.com/authentication/1kosmos-developer-experience/){:target="_blank"}<br>
 
 ### <a name="orchestration"></a>orchestration
-[Identity Workflow using Authentication Trees and Google Cloud Functions with Zeebe Cloud](https://community.forgerock.com/t/identity-workflow-with-am-using-zeebe-and-cloud-functions/354){:target="_blank"}<br>
+[Identity Workflow using Authentication Trees and Google Cloud Functions with Zeebe Cloud](https://community.forgerock.com/t/354){:target="_blank"}<br>
 
 ### <a name="authorization"></a>authorization
-[Identity Microservices with Consul on OpenShift](https://community.forgerock.com/t/forgerock-identity-microservices-with-consul-on-openshift){:target="_blank"}<br>
+[Identity Microservices with Consul on OpenShift](https://community.forgerock.com/t/1856){:target="_blank"}<br>
 
-[Environment Runtime management identity microservices with Hashicorp Consul](https://community.forgerock.com/runtime-configuration-for-identity-microservices-using-consul){:target="_blank"}<br>
+[Environment Runtime management identity microservices with Hashicorp Consul](https://community.forgerock.com/t/1857){:target="_blank"}<br>
 
-[Token Exchange and Delegation using Identity Microservices](https://community.forgerock.com/t/token-exchange-and-delegation-using-identity-microservices){:target="_blank"}<br>
+[Token Exchange and Delegation using Identity Microservices](https://community.forgerock.com/t/1855){:target="_blank"}<br>
 
-[Securing your (micro)services with ForgeRock Identity Microservices](https://community.forgerock.com/t/securing-your-micro-services-with-forgerock-identity-microservices){:target="_blank"}<br>
+[Securing your (micro)services with ForgeRock Identity Microservices](https://community.forgerock.com/t/1854){:target="_blank"}<br>
 
 [A framework for dynamic role based authorization](https://forgerock.org/2016/05/framework-dynamic-roles-assignments-openidm){:target="_blank"}<br>
 
@@ -72,17 +72,16 @@ description: Javed Shah's public media
 
 [Extend the power of the ForgeRock Identity Platform through scripting](https://www.slideshare.net/ForgeRock/webinar-extend-the-power-of-the-forgerock-identity-platform-through-scripting){:target="_blank"}<br>
 
-[WS Federation support with simple modifications to a SAML Engine](https://wikis.forgerock.org/confluence/display/openam/WS-Federation+Custom+SP+Attribute+Mapper){:target="_blank"}<br>
+[WS Federation support with simple modifications to a SAML Engine](https://wikis.forgerock.org/confluence/display/openam/WS-Federation+Custom+SP+Attribute+Mapper+in+OpenAM?src=contextnavchildmode){:target="_blank"}<br>
 
 [2FA predictive authentication using Phone-based risk signals](https://wikis.forgerock.org/confluence/display/openam/2FA+using+TeleSign+PhoneID+Score+API){:target="_blank"}<br>
 
-[Geo Fencing using reverse geo-location APIs](https://wikis.forgerock.org/confluence/display/openam/Geo+Fencing+ReverseGeocode+API){:target="_blank"}<br>
+[Geo Fencing using reverse geo-location APIs](https://wikis.forgerock.org/confluence/display/openam/Geo+Fencing+using+Pitney+Bowes+ReverseGeocode+API?src=contextnavchildmode){:target="_blank"}<br>
 
 [Deploying social login risk profiles using social networking risk signals](https://wikis.forgerock.org/confluence/pages/viewpage.action?pageId=30113981){:target="_blank"}<br>
 
-[Knowledge Based Authentication](https://wikis.forgerock.org/confluence/display/openam/Implementing+Knowledge+Based+Authentication){:target="_blank"}<br>
+[Knowledge Based Authentication](https://wikis.forgerock.org/confluence/display/openam/Implementing+Knowledge+Based+Authentication+in+OpenAM?src=contextnavchildmode){:target="_blank"}<br>
 
-[Impersonation techniques for Helpdesk management in modern access management products](https://forgerock.org/2016/02/impersonation-authentication-module-for-openam){:target="_blank"}<br>
+[Impersonation techniques for Helpdesk management in modern access management products](https://wikis.forgerock.org/confluence/display/openam/Impersonation+Authentication+module+for+OpenAM){:target="_blank"}<br>
 
-
-[Identity Provider proxy using Active Directory Federation Server](https://wikis.forgerock.org/confluence/display/openam/IDP+Proxy+with+ADFS){:target="_blank"}<br>
+[Identity Provider proxy using Active Directory Federation Server](https://wikis.forgerock.org/confluence/display/openam/Configuring+OpenAM+IDP+Proxy+with+ADFS+and+remote+Service+Provider){:target="_blank"}<br>
