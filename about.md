@@ -15,6 +15,7 @@ The cross-disciplinary duality of Stephen Hawking’s eternal words and the Hind
 [orcid](https://orcid.org){:target="_blank"}: [0009-0009-7472-5614](https://orcid.org/0009-0009-7472-5614){:target="_blank"}<br/>
 [github](https://github.com/javedmshah){:target="_blank"}<br/>
 [Berkeley MBA blog](https://theberkeleymba.org){:target="_blank"} <br/>
+[LinkedIn](https://www.linkedin.com/in/javedmaqboolshah){:target="_blank"} <br/>
 he/him
 
 
