@@ -10,8 +10,7 @@ description: Javed's talks and press
 [Decentralized Identity and Security of User data](https://twitter.com/1KosmosBlockID/status/1588281873133862912){:target="_blank"}, TechVision Experts Panel, Seattle
 
 #### 2021
-“Identity Based Authentication for Third-Party Access”, Saviynt Converge Keynote, San Diego
-
+[Identity Based Authentication for Third-Party Access](https://saviynt.com/converge-2021/){:target="_blank"}, Saviynt Converge Keynote, San Diego
 
 #### 2019
  “Securing Authorization microservices”, Gartner IAM, Las Vegas
