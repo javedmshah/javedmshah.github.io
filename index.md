@@ -10,8 +10,8 @@ keywords: identity, microservices, artificial intelligence, machine learning, se
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/jshah-public.pdf">cv</a></li>
           <li><a href="https://github.com/javedmshah">github</a></li>
-          <li><a href="https://www.1kosmos.com/authors/javed-shah/">blog</a></li>
-          <li><a href="https://backstage.forgerock.com/search/?t=community&q=Javed%20Shah&page=1&sort=_score:desc">technical blog</a></li>
+          <li><a href="https://www.1kosmos.com/authors/javed-shah/">blog (recent)</a></li>
+          <li><a href="https://backstage.forgerock.com/search/?t=community&q=Javed%20Shah&page=1&sort=_score:desc">blog (old)</a></li>
           <li><a href="https://orcid.org/0009-0009-7472-5614">orcid</a></li>
       </ul>
   </div>
