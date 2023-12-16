@@ -5,6 +5,7 @@ description: Javed is a technology professional with a passion for research and 
 keywords: identity, microservices, artificial intelligence, machine learning, security, policies, data, platform, berkeley
 ---
 <img src="{{ BASE_PATH }}/jshah.jpg" alt="image" width="33%" height="auto">
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
