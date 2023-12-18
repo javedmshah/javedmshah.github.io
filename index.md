@@ -34,11 +34,11 @@ Highlights of his work experience:
 
 **1Kosmos Inc.**
 Global Head of Product (SVP)
-Responsible for defining and executing the vision and roadmap for a know your customer identity assurance platform. Designed and built [developer.1kosmos.com](https://developer.1kosmos.com){:target="_blank"}
+Responsible for defining and executing the vision and roadmap for a know your customer identity assurance platform. Designed and built [developer.1kosmos.com](https://developer.1kosmos.com){:target="_blank"}. Brought several zero-day-secure multi-factor authentication innovations to market.
 
 **ForgeRock**
 Sr. Director of Product, Identity Cloud
-Designed and built the global ForgeRock Identity Cloud service on kubernetes in Google Cloud.
+Designed and built the global ForgeRock Identity Cloud service on kubernetes in Google Cloud. Brought dozens of IAM-focused cybersecurity innovations to the market.
 
 **Prolifics Inc.**
 Director of Professional Services, Americas
