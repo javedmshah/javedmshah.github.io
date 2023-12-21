@@ -38,7 +38,7 @@ Responsible for defining and executing the vision and roadmap for a know your cu
 
 **ForgeRock**
 Sr. Director of Product, Identity Cloud
-Designed and built the global ForgeRock Identity Cloud service on kubernetes in Google Cloud. Brought dozens of IAM-focused cybersecurity innovations to the market.
+Designed and built the global ForgeRock Identity Cloud service on kubernetes in Google Cloud. Led North and Latin America pre-sales with a $21M P&L responsibility. Brought dozens of IAM-focused cybersecurity innovations to the market.
 
 **Prolifics Inc.**
 Director of Professional Services, Americas
