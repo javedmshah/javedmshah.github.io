@@ -28,7 +28,7 @@ keywords: identity, microservices, artificial intelligence, machine learning, se
 **Dark Reading** [Author profile](https://www.darkreading.com/author/javed-shah){:target="_blank"}<br>
 **TechVision** [Speaker profile](https://techvisionresearch.com/speakers-2022/){:target="_blank"} <br>
 
-***Javed is a technology professional with a passion for research and two decades of experience running identity assurance and access management product and services portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley.***
+***Javed is a technology professional with a passion for research and two decades of experience running identity assurance and access management product and service portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley.***
 
 Highlights of his work experience:
 
