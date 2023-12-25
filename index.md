@@ -33,29 +33,29 @@ keywords: identity, microservices, artificial intelligence, machine learning, se
 Highlights of his work experience: <br>
 
 **Ohio University**
-Research Intern for Computational Sociology
+Research Intern for Computational Sociology <br>
 Social network analysis, agent-based modeling, data mining, simulation, artificial intelligence and machine learning. Currently researching models for de-escalation strategies for psychological distress and behavior challenges in children with IDD. AI-assisted intersections and resilience models in two book chapters accepted for "Children and Youth as ‘Sites of Resistance’ in Armed Conflict", Volumes I and II. Research is sponsored by American Sociological Association (ASA), published by Emerald Publishers.
 
 **1Kosmos Inc.**
-Global Head of Product (SVP)
+Global Head of Product (SVP) <br>
 Responsible for defining and executing the vision and roadmap for a know your customer identity assurance platform. Designed and built [developer.1kosmos.com](https://developer.1kosmos.com){:target="_blank"}. Brought several zero-day-secure multi-factor authentication innovations to market.
 
 **ForgeRock**
-Sr. Director of Product, Identity Cloud
+Sr. Director of Product, Identity Cloud <br>
 Designed and built the global ForgeRock Identity Cloud service on kubernetes in Google Cloud. Led North and Latin America pre-sales with a $21M P&L responsibility. Brought dozens of IAM-focused cybersecurity innovations to the market.
 
 **Prolifics Inc.**
-Director of Professional Services, Americas
+Director of Professional Services, Americas <br>
 Responsible for a shared $11M P&L with other directors, managed a professional services team of security consultants in the US. Served as lead architect for identity and access management projects.
 
 **University of California, San Francisco**
-Program Architect, Identity & Access Management for Campus, InCommon Federation
+Program Architect, Identity & Access Management <br>
 Designed and operationalized the UCSF [myaccess.ucsf.edu](https://myaccess.ucsf.edu){:target="_blank"} portal that serves over 150,000 students and staff.
 
 **Kaiser Permanente**
-Architect, Identity & Access Management Services
+Architect, Identity & Access Management Services <br>
 Designed and built [Healthy KP](https://healthy.kaiserpermanente.org){:target="_blank"}, a global service serving 500,000 users for Kaiser Permanente.
 
 **Persistent Systems, Inc.**
-Senior Staff Software Engineer, Identity
+Senior Staff Software Engineer, Identity <br>
 Senior software developer on the IBM Tivoli Identity platform.
