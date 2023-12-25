@@ -31,6 +31,9 @@ keywords: identity, microservices, artificial intelligence, machine learning, se
 ***Javed is a technology professional with a passion for research and two decades of experience running identity assurance and access management product and service portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley.***
 
 Highlights of his work experience:
+**Ohio University**
+Research Intern for Computational Sociology
+Social network analysis, agent-based modeling, data mining, simulation, artificial intelligence and machine learning. Currently researching models for de-escalation strategies for psychological distress and behavior challenges in children with IDD. AI-assisted intersections and resilience models in two book chapters accepted for "Children and Youth as ‘Sites of Resistance’ in Armed Conflict", Volumes I and II. Research is sponsored by American Sociological Association (ASA), published by Emerald Publishers.
 
 **1Kosmos Inc.**
 Global Head of Product (SVP)
