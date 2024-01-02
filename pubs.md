@@ -38,6 +38,7 @@ Proposed implementation framework for automatically generating XACML policies fr
 [Digital Transformation of Personnel Onboarding](https://securityboulevard.com/2022<br>/10/digital-transformation-of-personnel-onboarding/){:target="_blank"}, Security Boulevard, 2022<br>
 
 ### <a name="articles"></a>articles
+#### older
 [Understanding and Mitigating Single Sign-on Risk](https://www.darkreading.com/endpoint-security/understanding-and-mitigating-single-sign-on-risk){:target="_blank"}, Dark Reading, June 14 2022<br>
 ***Delegated and Chained Authorization with OAuth2 and User Managed Access***
 [sinconf-delegated-authz](/sinconf-delegated-authz.pdf){:target="_blank"}<br>
@@ -46,6 +47,10 @@ Submitted to Security of Information Networks SIN18, _rejected with review comme
 
 The paper explores “decentralized permissions” as a way to avoid caching pre-baked permission sets at the Authorization Server (AS). Ideas proposed include caching nested permissions to promote faster authorization decision times.
 
+#### 2024*
+***Emotion in Politics*** <br>
+by Shah, Dr. Tamanna, Assistant Professor of Instruction, Ohio University <br>in International Political Science Abstracts, (IPSA 2024) <br>
+Shah, Javed - contributing to model generation using NetworkX libraries in Python
 
 ***Religious Hegemony and Political Regime: Examining the Inverted U Relationship with Conflict.*** <br>Journal Article with Shah, Tamanna M.<br>
 Submission for American Sociological Review (ASR), 2024
