@@ -14,7 +14,7 @@ title: Emotion in Politics
   </div>
 </div>
 
-"Emotion in Politics", International Political Science Abstracts, (IPSA 2024) <br>
+*"Emotion in Politics"* <br>International Political Science Abstracts, (IPSA 2024) <br>
 by Shah, Dr. Tamanna, Assistant Professor of Instruction, Ohio University <br>
 Shah, Javed - contributing to model generation using NetworkX libraries in Python  <br>
 
@@ -27,4 +27,4 @@ Model specifics: Using NetworkX, a Python package for graphing networks, we cons
 ![Literature Review Network Graph](paper_final_coded_network_graph_emotion_agency.png)
 **Literature Review for Emotion in Politics**. &mdash; <br>
 
-Model specifics: Using NetworkX, we modeled the dominant themes weighted by the effect sizes for each of the coded emotions that were evaluated within the dominant themes in the 31 studies that were surveyed. A directed weighted graph was constructed with nodes representing each of the 36 studies connected to specific emotions, with the connections weighted by the effect sizes - combining word counts with contextual weighting. To visually highlight the relationship between dominant emotions and the studies discussing them, we utilized a multipartite layout. 
+Model specifics: Using NetworkX, we modeled the dominant themes weighted by the effect sizes for each of the coded emotions that were evaluated within the dominant themes in the 31 studies that were surveyed. A directed weighted graph was constructed with nodes representing each of the 36 studies connected to specific emotions, with the connections weighted by the effect sizes - combining word counts with contextual weighting. To visually highlight the relationship between dominant emotions and the studies discussing them, we utilized a multipartite layout.
