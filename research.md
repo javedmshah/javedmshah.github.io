@@ -18,12 +18,12 @@ description: Javed Shah's research activities
 <tr>
   <td class="left">
     <a href="pics/emotion_agency.html">
-        <img src="pics/final_coded_network_graph_emotion_agency.png" alt="Agency Network Graph" title="Emotion in Politics"/>
+        <img src="pics/final_coded_network_graph_emotion_agency.png" alt="Agency Network Graph" title="Emotion in Politics" width="100"/>
     </a>
   </td>
-  <td class="right">
+  <td class="right"  style="width:250px; height:250px;">
   <a href="pics/emotion_agency.html">
-      <img src="pics/paper_final_coded_network_graph_emotion_agency.png" alt="Literature Review Network Graph" title="Lit Review: Emotion in Politics"/>
+      <img src="pics/paper_final_coded_network_graph_emotion_agency.png" alt="Literature Review Network Graph" title="Lit Review: Emotion in Politics" width="100/>
   </a>
 </td>
 </tr>
