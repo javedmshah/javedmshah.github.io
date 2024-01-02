@@ -1,6 +1,7 @@
 ---
 layout: frontpage
-title: Javed's research activities
+title: research activities
+description: Javed Shah's research activities
 ---
 
 <div class="navbar">
