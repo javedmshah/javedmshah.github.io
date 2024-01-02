@@ -29,3 +29,5 @@ Model specifics: Using NetworkX, a Python package for graphing networks, we cons
 **Literature Review for Emotion in Politics**. &mdash; <br>
 
 Model specifics: Using NetworkX, we modeled the dominant themes weighted by the effect sizes for each of the coded emotions that were evaluated within the dominant themes in the 31 studies that were surveyed. A directed weighted graph was constructed with nodes representing each of the studies connected to specific emotions, with the connections weighted by the effect sizes - combining word counts with contextual weighting. To visually highlight the relationship between dominant emotions and the studies discussing them, we utilized a multipartite layout.
+
+[github: computational model for emotions in politics](https://github.com/javedmshah/comp.emotions.politics){:target="_blank"}
