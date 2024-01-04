@@ -18,19 +18,19 @@ description: Javed Shah's research activities
 <tr>
   <td class="left">
     <a href="pics/emotion_agency.html">
-        <img src="pics/final_coded_network_graph_emotion_agency.png" alt="Agency Network Graph" title="Emotion in Politics" />
+        <img style="float: center;" src="pics/final_coded_network_graph_emotion_agency.png" alt="Agency Network Graph" title="Feature Agency Network Modeling" />
     </a>
   </td>
   <td class="right">
   <a href="pics/emotion_agency.html">
-      <img src="pics/paper_final_coded_network_graph_emotion_agency.png" alt="Literature Review Network Graph" title="Lit Review: Emotion in Politics"/>
+      <img style="float: center;" src="pics/paper_final_coded_network_graph_emotion_agency.png" alt="Literature Review Network Graph" title="Feature Extraction from Literature Studies"/>
   </a>
 </td>
 </tr>
 <tr>
   <td class="left">
     <a href="pics/relheg.html">
-        <img src="pics/relheg.png" alt="logistic regression" title="Generalized Linear Models for computational sociology" />
+        <img style="float: center;" src="pics/relheg.png" alt="logistic regression" title="Generalized Linear Models for computational sociology" />
     </a>
   </td>
 </tr>
