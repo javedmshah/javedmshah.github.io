@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Emotion in Politics
+title: Agency effects modeling
 ---
 
 
@@ -31,4 +31,4 @@ Model specifics: Using NetworkX, a Python package for graphing networks, I const
 
 Model specifics: Also modeled were the dominant themes weighted by the effect sizes for each of the coded features that were evaluated within the dominant themes in the thirty one studies surveyed. A directed weighted graph was constructed with nodes representing each of the studies connected to specific features, with the connections weighted by the effect sizes - combining word counts with contextual weighting. I utilized a multipartite layout to visually highlight the relationship between dominant features and the studies discussing them.
 
-[github: computational model for emotions in politics](https://github.com/javedmshah/comp.emotions.politics){:target="_blank"}
+[github: computational model for emotions in politics](https://github.com/javedmshah/compute.agency.model){:target="_blank"}

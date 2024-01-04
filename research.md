@@ -27,6 +27,13 @@ description: Javed Shah's research activities
   </a>
 </td>
 </tr>
+<tr>
+  <td class="center">
+    <a href="pics/relheg.html">
+        <img src="pics/relheg.png" alt="logistic regression" title="Generalized Linear Models for computational sociology" />
+    </a>
+  </td>
+</tr>
 </table>
 
 <div class="navbar">
