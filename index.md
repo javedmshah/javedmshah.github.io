@@ -23,7 +23,7 @@ Highlights of his work experience: <br>
 
 **Ohio University**
 AI and ML Researcher <br>
-Social network analysis, agent-based modeling, data mining, simulation, artificial intelligence and machine learning. Currently researching models for de-escalation strategies for psychological distress and behavior challenges in children with IDD. AI-assisted intersections and resilience models in two book chapters accepted for "Children and Youth as ‘Sites of Resistance’ in Armed Conflict", Volumes I and II. Research is sponsored by American Sociological Association (ASA), published by Emerald Publishers.
+Social network analysis, agent-based modeling, data mining, simulation, artificial intelligence and machine learning. Currently researching models for de-escalation strategies for psychological distress and behavior challenges in children with IDD. AI-assisted intersections and resilience models in two book chapters accepted for "Children and Youth as ‘Sites of Resistance’ in Armed Conflict", Volumes I and II. Research is sponsored by American Sociological Association (ASA), published by Emerald Publishers. Additional research on agency of societal features for causal effects on conflict will be published in International Political Science Abstracts (IPSA 2024).
 
 **1Kosmos Inc.**
 Global Head of Product (SVP) <br>
