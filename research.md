@@ -25,7 +25,7 @@ description: Javed Shah's research activities
   <a href="pics/emotion_agency.html">
       <img style="float: center;" src="pics/paper_final_coded_network_graph_emotion_agency.png" alt="Literature Review Network Graph" title="Feature Extraction from Literature Studies"/>
   </a>
-</td>
+  </td>
 </tr>
 <tr>
   <td class="left">
@@ -33,10 +33,15 @@ description: Javed Shah's research activities
         <img style="float: center;" src="pics/relheg.png" alt="logistic regression" title="Generalized Linear Models for computational sociology" />
     </a>
   </td>
+  <td class="right">
+  <a href="pics/gtfeature.html">
+      <img style="float: center;" src="pics/gt_feature_classes.png" alt="Pairwise feature classification accuracy" title="Game theory for feature analysis"/>
+  </a>
+  </td>
 </tr>
 <tr>
   <td class="left">
-    
+
   </td>
 </tr>
 </table>
