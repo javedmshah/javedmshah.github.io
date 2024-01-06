@@ -17,7 +17,7 @@ title: Game theory and Learning
 
 #### Game theory for feature analysis in learning models
 ***working paper*** <br>
-The research is in early stages, but focuses on using a zero-sum game for calculating payoff matrices for pairwise feature analysis. We try to derive how each 'player' (in this case, each feature of a dataset) competes or cooperates with others to achieve a goal, such as explaining variance in the data.<br> A payoff matrix is built using Decision Tree Classifier with 10-fold cross validation on pairs of features selected from the dataset that have potential to occur in pairs. Mean classification accuracy scores are used to build the payoff matrices. <br>
+The research is in early stages, but focuses on using a zero-sum game for calculating payoff matrices for pairwise feature analysis. We try to derive how each 'player' (in this case, each feature of a dataset) competes or cooperates with others to achieve a goal, such as explaining variance in the data.<br> A payoff matrix is built using a decision tree classifier with 10-fold cross validation on pairs of features selected from the dataset that have potential to occur in pairs. Mean classification accuracy scores are used to build the payoff matrices. <br>
 
 ***Approach*** <br>
 Compute the payoff matrix using classification accuracy between pairs of features from the dataset. Create a game using the nashpy library and find Nash Equilibria. Plot the payoff matrices, showing how each feature pair's classification accuracy (payoff) relates to each other. Visualize feature pair classification accuracy as a heatmap for a more intuitive understanding of how well each pair performs.
