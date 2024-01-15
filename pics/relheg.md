@@ -24,8 +24,8 @@ title: GLMs for Computational Sociology
 Our mixed effects model shows a curvilinear relationship of religious hegemony as a fixed effect and accounts for random differences between polity levels. We captured the relationships between conflict and religious hegemony and polity  using z-score scaled features. The curvilinear model in three dimensions shows the causal effects of changing political regimes on societal conflict. The fixed effects part is interpreted like a standard regression (average within-entity effect), while the random effects account for variation between entities.
 
 <img src="fixed_model_final.png" alt="glm" width="800"/>
-We also used a fixed effects model for creating a concept of religious hegemony based on more than just the traditional binary representation found in existing literature. We used ideology, culture and polity among other discrete variables, and analyzed their impact over time. Fixed effects models control for all time-invariant differences between entities, so we are essentially comparing conflict as modeled against religious hegemony over time.<br>
 **Fixed Effects Modeling for Distributed Sociological Phenomenon**. &mdash; <br>
+We also used a fixed effects model for creating a concept of religious hegemony based on more than just the traditional binary representation found in existing literature. We used ideology, culture and polity among other discrete variables, and analyzed their impact over time. Fixed effects models control for all time-invariant differences between entities, so we are essentially comparing conflict as modeled against religious hegemony over time.<br>
 
 <img src="rh thesis.png" alt="glm" width="800"/>
 
