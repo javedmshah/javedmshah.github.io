@@ -49,7 +49,7 @@ The paper explores “decentralized permissions” as a way to avoid caching pre
 
 #### 2024*
 ***Emotion in Politics*** <br>
-by Shah, Dr. Tamanna, Assistant Professor of Instruction, Ohio University <br>in International Political Science Abstracts, (IPSA 2024) <br>
+by Shah, Dr. Tamanna, Assistant Professor of Instruction, Ohio University <br>in International Political Science Abstracts, (IPSA, February 2024) <br>
 Shah, Javed - contributing to model generation using NetworkX libraries in Python
 
 ***Religious Hegemony and Political Regime: Examining the Inverted U Relationship with Conflict.*** <br>Journal Article with Shah, Tamanna M.<br>
