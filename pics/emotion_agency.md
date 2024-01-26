@@ -11,7 +11,7 @@ title: Agency effects modeling
           <li><a href="{{ BASE_PATH }}/jshah-public.pdf">cv</a></li>
           <li><a href="https://github.com/javedmshah">github</a></li>
           <li><a href="https://linkedin.com/in/javedmaqboolshah">LinkedIn</a></li>
-          <li><a href="relheg.html">next</a></li>          
+          <li><a href="bots.html">next</a></li>          
       </ul>
   </div>
 </div>
