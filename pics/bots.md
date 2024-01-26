@@ -19,6 +19,7 @@ title: Unsupervised learning for bot identification
 #### Modeling the session behavior of bots
 
 <img src="bots.png" alt="K-Means clustering to identify bot patterns" width="800"/>
+Presented here is an initial effort at modeling bot session durations for a popular social media site. The clusters shown here represent session durations in minutes along the Y axis and a coded time of day along the X axis. In the preliminary model and with limited data, we can see outlier values corresponding to known malicious attempts. 
 
 **Detecting Scalper Bots using Unsupervised Learning**. &mdash; <br>
 With the emergence of web 3.0, and scarce online products (NFTs, tickets, etc)  the constant threat of scalper bots poses a significant threat, often acquiring high-demand assets en masse for resale at inflated prices. This study proposes the use of unsupervised machine learning techniques in a pipeline model, starting primarily with K-means clustering and progressing to regression for feature significance, ultimately to identify and differentiate between human users and scalper bots based on their activity patterns over days and weeks.
