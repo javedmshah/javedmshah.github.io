@@ -21,6 +21,11 @@ description: Javed Shah's research activities
         <img style="float: center;" src="pics/bots.png" alt="Bots Classifier" title="K-Means Clustering" />
     </a>
   </td>
+  <td class="right">
+  <a href="pics/bots.html">
+      <img style="float: center;" src="pics/suspicion.png" alt="Mapping bot likelihood with k-means" title="K-Means Clustering"/>
+  </a>
+  </td>
 </tr>
 <tr>
   <td class="left">
