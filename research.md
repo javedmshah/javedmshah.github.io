@@ -17,6 +17,13 @@ description: Javed Shah's research activities
 <table class="wide">
 <tr>
   <td class="left">
+    <a href="pics/bots.html">
+        <img style="float: center;" src="pics/bots.png" alt="Bots Classifier" title="K-Means Clustering" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
     <a href="pics/emotion_agency.html">
         <img style="float: center;" src="pics/final_coded_network_graph_emotion_agency.png" alt="Agency Network Graph" title="Feature Agency Network Modeling" />
     </a>
