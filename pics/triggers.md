@@ -19,9 +19,9 @@ title: NLP for detecting behavioral changes
 #### Emotional dynamics and behavioral change detection with NLP
 
 **Using NLP to track anxiety triggers in conversational text**. &mdash; <br><br>
-<img src="trigger_dispersion.png" alt="Dispersion plot for emotional triggers" width="800"/> <br>
 ***Visualizing Anxiety Triggers***<br>
 We distributed emotion occurrences across sentences, plotting each occurrence to reflect its dispersion through the sequence of sentences. We wrote a Python script that simulates a dispersion plot where each dot represents an occurrence of an emotion within a specific unit of analysis in the corpus. It visually illustrates how emotions are distributed throughout the conversation, assuming a one-to-one mapping between sentences and rows in the vectorized array. <br>
+<img src="trigger_dispersion.png" alt="Dispersion plot for emotional triggers" width="800"/> <br>
 
 We used the popular sklearn's CountVectorizer for feature extraction on a correspondence text corpus that gave us vectorized sentences with summed individual occurrences of an emotion in each sentence. We used this emotion-vocabulary based vectorizer to simulate a dispersion plot by assuming the position of each emotion word occurrence is indicative of its presence in the sentence sequence of the corpus. This approach gives a rough approximation of how these emotions are dispersed throughout the text, considering each sentence as a discrete unit. This approach aggregates occurrences within sentences, so multiple occurrences of the same emotion within a single sentence are represented by multiple dots at the same sentence index. This plot is dense if a particular emotion is frequent in the corpus, providing a visual sense of which emotions are most prevalent and how they're distributed over the course of the conversation. <br>
 
@@ -32,9 +32,10 @@ Plotting: For visualization, the y-axis can represent different emotions, and th
 
 
 **Applying NLP to Adaptive Therapy**. &mdash; <br><br>
-<img src="session_triggers.png" alt="Tracking in-session anxiety" width="800"/><br>
-***Visualizing Anxiety Triggers***<br>
+***Visualizing a Therapy Session***<br>
 We developed a Python script that generates a plot showing when each emotion word is "spoken" during the therapy session, based on our hypotheses. This visualization can help in understanding how emotional expressions might evolve in a therapeutic context, offering insights into the child's emotional journey and areas where the therapist might focus their interventions.<br>
+
+<img src="session_triggers.png" alt="Tracking in-session anxiety" width="800"/><br>
 
 ***Conceptual Framework*** <br>
 Session Segments: We divided the session into distinct 5-minute segments assuming each segment might have a different emotional tone or focus.<br>
