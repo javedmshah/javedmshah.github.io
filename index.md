@@ -25,7 +25,7 @@ AI and ML Researcher (part-time) <br>
 Social network analysis, agent-based modeling, data mining, simulation, artificial intelligence and machine learning.
 
 **1Kosmos Inc.**
-Global Head of Product (SVP) <br>
+Global Head of Product <br>
 Responsible for defining and executing the vision and roadmap for a know your customer identity assurance platform. Designed and built [developer.1kosmos.com](https://developer.1kosmos.com){:target="_blank"}. Brought several zero-day-secure multi-factor authentication innovations to market.
 
 **ForgeRock**
