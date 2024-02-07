@@ -17,6 +17,18 @@ description: Javed Shah's research activities
 <table class="wide">
 <tr>
   <td class="left">
+    <a href="pics/triggers.html">
+        <img style="float: center;" src="pics/trigger_dispersion.png" alt="Dispersion plot for emotional triggers" title="Dispersion plot for emotional triggers" />
+    </a>
+  </td>
+  <td class="right">
+  <a href="pics/triggers.html">
+      <img style="float: center;" src="pics/session_triggers.png" alt="Tracking in-session anxiety" title="Tracking in-session anxiety"/>
+  </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
     <a href="pics/bots.html">
         <img style="float: center;" src="pics/bots.png" alt="Bots Classifier" title="K-Means Clustering" />
     </a>

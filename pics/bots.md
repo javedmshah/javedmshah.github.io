@@ -11,7 +11,7 @@ title: Unsupervised learning for bot identification
           <li><a href="{{ BASE_PATH }}/jshah-public.pdf">cv</a></li>
           <li><a href="https://github.com/javedmshah">github</a></li>
           <li><a href="https://linkedin.com/in/javedmaqboolshah">LinkedIn</a></li>
-          <li><a href="emotion_agency.html">next</a></li>          
+          <li><a href="triggers.html">next</a></li>          
       </ul>
   </div>
 </div>
