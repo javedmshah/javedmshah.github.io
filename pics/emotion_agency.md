@@ -17,11 +17,9 @@ title: Agency effects modeling
 </div>
 
 #### Emotion Agency in Politics
-<br><a href="https://journals.sagepub.com/doi/10.1177/00208345241232769">International Political Science Abstracts, (IPSA, February 2024)</a> <br>
-<br>
-by Shah, Dr. Tamanna, Assistant Professor of Instruction, Ohio University <br>
-Shah, Javed - contributing to model generation using NetworkX libraries in Python  <br>
-
+<br><a href="https://journals.sagepub.com/doi/10.1177/00208345241232769">Shah, T. M. (2024). Emotions in Politics: A Review of Contemporary Perspectives and Trends</a> <br>
+International Political Science Abstracts, 74(1), 1-14<br>
+<a href="{{ BASE_PATH }}/shah-2024-emotions-in-politics-a-review-of-contemporary-perspectives-and-trends.pdf"><direct download link></a> <br>
 <img src="final_coded_network_graph_emotion_agency.png" alt="Emotion Agency Network Graph" width="800"/>
 
 **Feature Agency Network Graph**. &mdash; <br>
