@@ -17,6 +17,28 @@ description: Javed Shah's publications
 ### <a name="cs-research"></a>cs research
 Proposed implementation framework for automatically generating XACML policies from metadata. You can read it here: <a href="{{ BASE_PATH }}/xacml_auto.pdf" target="_blank">Programmable XACML policies</a>
 
+#### 2024*
+***Emotion in Politics*** <br>
+<br><a href="https://journals.sagepub.com/doi/10.1177/00208345241232769">Shah, T. M. (2024). Emotions in Politics: A Review of Contemporary Perspectives and Trends</a> <br>
+International Political Science Abstracts, 74(1), 1-14<br>
+<a href="{{ BASE_PATH }}/shah-2024-emotions-in-politics-a-review-of-contemporary-perspectives-and-trends.pdf" target="_blank">direct download</a><br>
+<img src="final_coded_network_graph_emotion_agency.png" alt="Emotion Agency Network Graph" width="800"/>
+
+
+***Religious Hegemony and Political Regime: Examining the Inverted U Relationship with Conflict.*** <br>Journal Article with Shah, Tamanna M.<br>
+Submission for American Sociological Review (ASR), 2024
+
+### <a name="chapters"></a>book chapters
+#### 2024*
+
+***AI Intersections: Amplifying Children and Youth Voices in Conflict Zones***, Shah Javed M., Shah Tamanna M.<br>
+Book Chapter accepted for Children and Youth as ‘Sites of Resistance’ in Armed Conflict, Volume I (Sponsored by American Sociological Association (ASA) Section on Children and Youth, Emerald Publishers), May 2024
+
+
+***AI-Enhanced Resilience: Empowering Youth Voices in Conflict Zones***
+, Shah Javed M., Shah Tamanna M.<br>
+Book Chapter accepted for Children and Youth as ‘Sites of Resistance’ in Armed Conflict, Volume I (Sponsored by American Sociological Association (ASA) Section on Children and Youth, Emerald Publishers), May 2024
+
 53 published articles on Security Boulevard, from 2021 to 2023
 #### 2023 (selected)
 [MGM, Ceasar's Hacks: more of the same is coming, and how to stop it](https://securityboulevard.com/2023/09/mgm-caesars-hacks-more-of-the-same-is-coming-your-way-but-heres-how-to-stop-it/){:target="_blank"}, Security Boulevard, 2023 <br>
@@ -46,22 +68,3 @@ Submitted to Security of Information Networks SIN18, _rejected with review comme
 \[_I have not had the time to revise and resubmit since, but SIN24 is around the corner and I shall give it another try with revisions._\]
 
 The paper explores “decentralized permissions” as a way to avoid caching pre-baked permission sets at the Authorization Server (AS). Ideas proposed include caching nested permissions to promote faster authorization decision times.
-
-#### 2024*
-***Emotion in Politics*** <br>
-by Shah, Dr. Tamanna, Assistant Professor of Instruction, Ohio University <br>in International Political Science Abstracts, (IPSA, February 2024) <br>
-Shah, Javed - contributing to model generation using NetworkX libraries in Python
-
-***Religious Hegemony and Political Regime: Examining the Inverted U Relationship with Conflict.*** <br>Journal Article with Shah, Tamanna M.<br>
-Submission for American Sociological Review (ASR), 2024
-
-### <a name="chapters"></a>book chapters
-#### 2024*
-
-***AI Intersections: Amplifying Children and Youth Voices in Conflict Zones***, Shah Javed M., Shah Tamanna M.<br>
-Book Chapter accepted for Children and Youth as ‘Sites of Resistance’ in Armed Conflict, Volume I (Sponsored by American Sociological Association (ASA) Section on Children and Youth, Emerald Publishers), May 2024
-
-
-***AI-Enhanced Resilience: Empowering Youth Voices in Conflict Zones***
-, Shah Javed M., Shah Tamanna M.<br>
-Book Chapter accepted for Children and Youth as ‘Sites of Resistance’ in Armed Conflict, Volume I (Sponsored by American Sociological Association (ASA) Section on Children and Youth, Emerald Publishers), May 2024
