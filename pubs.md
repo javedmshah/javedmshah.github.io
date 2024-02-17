@@ -22,8 +22,6 @@ Proposed implementation framework for automatically generating XACML policies fr
 <br><a href="https://journals.sagepub.com/doi/10.1177/00208345241232769">Shah, T. M. (2024). Emotions in Politics: A Review of Contemporary Perspectives and Trends</a> <br>
 International Political Science Abstracts, 74(1), 1-14<br>
 <a href="{{ BASE_PATH }}/shah-2024-emotions-in-politics-a-review-of-contemporary-perspectives-and-trends.pdf" target="_blank">direct download</a><br>
-<img src="final_coded_network_graph_emotion_agency.png" alt="Emotion Agency Network Graph" width="800"/>
-
 
 ***Religious Hegemony and Political Regime: Examining the Inverted U Relationship with Conflict.*** <br>Journal Article with Shah, Tamanna M.<br>
 Submission for American Sociological Review (ASR), 2024
