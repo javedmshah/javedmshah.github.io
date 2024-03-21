@@ -17,7 +17,9 @@ keywords: identity, microservices, artificial intelligence, machine learning, se
       </ul>
   </div>
 </div>
-***Javed is a technology professional with a passion for research and two decades of experience running identity assurance and access management product and service portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley. He can be reached at thoughttrain@berkeley.edu***
+**Javed runs product management for startups. <br>He is currently pursuing an MS in Computer Science from the University of Illinois, Chicago. <br> 
+Javed holds a BS in Computer Engineering from University of Pune and an MBA from UC Berkeley.
+<br> He can be reached at thoughttrain@berkeley.edu**
 
 Highlights of his work experience: <br>
 **Ohio University**
