@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Javed M Shah
-description: Javed is a technology professional with a passion for research and two decades of experience running identity assurance and access management product portfolios for startups. He is a BS in Computer Engineering from University of Pune and holds an MBA from UC Berkeley.
+description: Javed is a student of data science and machine learning with 22 years industry experience. Javed runs product management for startups. He is currently pursuing a double masters in computer science from the University of Illinois, Urbana-Champaign and University of Illinois, Chicago. Javed also holds a BS in Computer Engineering from University of Pune and an MBA from University of California, Berkeley. He is dedicated to exploring the intersection of computational science with artificial intelligence and machine learning through advanced analytical techniques. His research, published in the International Political Science Abstracts, is an exploration into network graph modeling that elucidates the multifaceted role of agency in shaping political landscapes. 
 keywords: identity, microservices, artificial intelligence, machine learning, security, policies, data, platform, berkeley
 ---
 <img src="{{ BASE_PATH }}/jshah.jpg" alt="image" width="33%" height="auto">
@@ -17,7 +17,7 @@ keywords: identity, microservices, artificial intelligence, machine learning, se
       </ul>
   </div>
 </div>
-**Javed runs product management for startups. <br>He is currently pursuing an MS in Computer Science from the University of Illinois, Chicago. <br> 
+**Javed runs product management for startups. <br>He is currently pursuing an MS in Computer Science from the University of Illinois, Chicago. <br>
 Javed holds a BS in Computer Engineering from University of Pune and an MBA from UC Berkeley.
 <br> He can be reached at thoughttrain@berkeley.edu**
 
