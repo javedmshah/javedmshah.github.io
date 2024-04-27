@@ -18,6 +18,10 @@ description: Javed Shah's publications
 Proposed implementation framework for automatically generating XACML policies from metadata. You can read it here: <a href="{{ BASE_PATH }}/xacml_auto.pdf" target="_blank">Programmable XACML policies</a>
 
 #### 2024*
+***Survey of Exploitation in the aftermath of Covid*** <br>
+Article with Shah, Tamanna M.<br>
+Submission for American Sociological Review (ASR), 2024
+
 ***Emotion in Politics*** <br>
 <br><a href="https://journals.sagepub.com/doi/10.1177/00208345241232769">Shah, T. M. (2024). Emotions in Politics: A Review of Contemporary Perspectives and Trends</a> <br>
 International Political Science Abstracts, 74(1), 1-14<br>
