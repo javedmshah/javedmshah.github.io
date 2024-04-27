@@ -17,6 +17,18 @@ description: Javed Shah's research activities
 <table class="wide">
 <tr>
   <td class="left">
+    <a href="pics/exploits.html">
+        <img style="float: center;" src="pics/pre_exploits.png" alt="Pre-Covid19 Exploits" title="Pre Covid19 Exploit Map" />
+    </a>
+  </td>
+  <td class="right">
+  <a href="pics/exploits.html">
+      <img style="float: center;" src="pics/post_subexploits.png" alt="Tracking in-session anxiety" title="Post Covid19 SubExploit Map" />
+  </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
     <a href="pics/triggers.html">
         <img style="float: center;" src="pics/trigger_dispersion.png" alt="Dispersion plot for emotional triggers" title="Dispersion plot for emotional triggers" />
     </a>
