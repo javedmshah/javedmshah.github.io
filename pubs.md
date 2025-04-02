@@ -17,7 +17,7 @@ description: Javed Shah's publications
 ### <a name="cs-research"></a>cs research
 Proposed implementation framework for automatically generating XACML policies from metadata. You can read it here: <a href="{{ BASE_PATH }}/xacml_auto.pdf" target="_blank">Programmable XACML policies</a>
 
-#### 2024*
+#### 2025*
 ***Survey of Exploitation in the aftermath of Covid*** <br>
 Article with Shah, Tamanna M.<br>
 Submission for Contemporary Justice Review, Taylor & Francis Online (ASRs), 2024
