@@ -18,9 +18,8 @@ description: Javed Shah's publications
 Proposed implementation framework for automatically generating XACML policies from metadata. You can read it here: <a href="{{ BASE_PATH }}/xacml_auto.pdf" target="_blank">Programmable XACML policies</a>
 
 #### 2025*
-***Survey of Exploitation in the aftermath of Covid*** <br>
-Article with Shah, Tamanna M.<br>
-Submission for Contemporary Justice Review, Taylor & Francis Online (ASRs), 2024
+***Survey of Human Trafficking in the aftermath of Covid*** <br>
+Shah, T. M., Jha, S., & Shah, J. M. (2025). Justice denied! COVID-19 and human trafficking in India and the USA. Contemporary Justice Review, 1–30. https://doi.org/10.1080/10282580.2025.2452541
 
 ***Emotions in Politics*** <br>
 <br><a href="https://journals.sagepub.com/doi/10.1177/00208345241232769">Shah, T. M. (2024). Emotions in Politics: A Review of Contemporary Perspectives and Trends</a> <br>
@@ -28,10 +27,6 @@ International Political Science Abstracts, 74(1), 1-14<br>
 <a href="{{ BASE_PATH }}/shah-2024-emotions-in-politics-a-review-of-contemporary-perspectives-and-trends.pdf" target="_blank">direct download</a><br>
 
 ### <a name="chapters"></a>book chapters
-
-#### 2024
-***Network analysis for Social Issues*** <br>
-Shah, T. M., Jha, S., & Shah, J. M. (2025). Justice denied! COVID-19 and human trafficking in India and the USA. Contemporary Justice Review, 1–30. https://doi.org/10.1080/10282580.2025.2452541
 
 #### 2024
 
