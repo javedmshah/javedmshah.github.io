@@ -22,24 +22,24 @@ Proposed implementation framework for automatically generating XACML policies fr
 Article with Shah, Tamanna M.<br>
 Submission for Contemporary Justice Review, Taylor & Francis Online (ASRs), 2024
 
-***Emotion in Politics*** <br>
+***Emotions in Politics*** <br>
 <br><a href="https://journals.sagepub.com/doi/10.1177/00208345241232769">Shah, T. M. (2024). Emotions in Politics: A Review of Contemporary Perspectives and Trends</a> <br>
 International Political Science Abstracts, 74(1), 1-14<br>
 <a href="{{ BASE_PATH }}/shah-2024-emotions-in-politics-a-review-of-contemporary-perspectives-and-trends.pdf" target="_blank">direct download</a><br>
 
-***Religious Hegemony and Political Regime: Examining the Inverted U Relationship with Conflict.*** <br>Journal Article with Shah, Tamanna M.<br>
-Submission for American Sociological Review (ASR), 2024
-
 ### <a name="chapters"></a>book chapters
-#### 2024*
 
-***AI Intersections: Amplifying Children and Youth Voices in Conflict Zones***, Shah Javed M., Shah Tamanna M.<br>
-Book Chapter accepted for Children and Youth as ‘Sites of Resistance’ in Armed Conflict, Volume I (Sponsored by American Sociological Association (ASA) Section on Children and Youth, Emerald Publishers), May 2024
+#### 2024
+***Network analysis for Social Issues*** <br>
+Shah, T. M., Jha, S., & Shah, J. M. (2025). Justice denied! COVID-19 and human trafficking in India and the USA. Contemporary Justice Review, 1–30. https://doi.org/10.1080/10282580.2025.2452541
 
+#### 2024
 
-***AI-Enhanced Resilience: Empowering Youth Voices in Conflict Zones***
-, Shah Javed M., Shah Tamanna M.<br>
-Book Chapter accepted for Children and Youth as ‘Sites of Resistance’ in Armed Conflict, Volume I (Sponsored by American Sociological Association (ASA) Section on Children and Youth, Emerald Publishers), May 2024
+***AI Intersections: Amplifying Children and Youth Voices in Conflict Zones***<br>
+Shah, J.M. and Shah, T.M. (2024), "Healing Through Empathy: Machine Learning for Adaptive Therapy for Children and Youth in Armed Conflict", Shah, T.M. (Ed.) Children and Youth in Armed Conflict: Responses, Resistance, and Portrayal in Media (Sociological Studies of Children and Youth, Vol. 35), Emerald Publishing Limited, Leeds, pp. 227-252. https://doi.org/10.1108/S1537-466120240000035014
+
+***AI-Enhanced Resilience: Empowering Youth Voices in Conflict Zones***<br>
+Shah, T.M. and Shah, J.M. (2024), "AI's Role in Enhancing Humanitarian Efforts for Children in Armed Conflict", Shah, T.M. (Ed.) Children and Youth as ‘Sites of Resistance’ in Armed Conflict (Sociological Studies of Children and Youth, Vol. 34), Emerald Publishing Limited, Leeds, pp. 145-155. https://doi.org/10.1108/S1537-466120240000034009
 
 53 published articles on Security Boulevard, from 2021 to 2023
 #### 2023 (selected)
