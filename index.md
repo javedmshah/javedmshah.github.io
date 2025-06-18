@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Javed M Shah
-description: Javed has over twenty years of experience building software products for startups. He is currently pursuing a master of science in computer science from the University of Illinois, Chicago and a masters in data science from University of Illinois, Urbana-Champaign. Javed holds a BS in Computer Engineering from the University of Pune and an MBA from the University of California, Berkeley. Javed is passionate about research in permissionless systems, incentive design, computational science and machine learning. His work on the multifaceted role of agency in shaping political landscapes has been published in the International Political Science Abstracts. He is a versatile technologist and researcher with deep empathy for building socially responsible innovation. 
+description: Javed has over twenty years of experience building software products for startups. He is currently pursuing a master of science in computer science from the University of Illinois, Chicago and a masters in data science from University of Illinois, Urbana-Champaign. Javed holds a BS in Computer Engineering from the University of Pune and an MBA from the University of California, Berkeley. Javed is passionate about research in permissionless systems, incentive design, computational science and machine learning. His work on the multifaceted role of agency in shaping political landscapes has been published in the International Political Science Abstracts. He is a versatile technologist and researcher with deep empathy for building socially responsible innovation.
 keywords: identity, microservices, artificial intelligence, machine learning, security, policies, data, platform, berkeley
 ---
 <img src="{{ BASE_PATH }}/jshah.jpg" alt="image" width="33%" height="auto">
@@ -17,7 +17,7 @@ keywords: identity, microservices, artificial intelligence, machine learning, se
       </ul>
   </div>
 </div>
-**Javed runs product management for startups. <br>He is currently pursuing an MS in Computer Science from the University of Illinois, Chicago. <br>
+**Javed runs product management for startups. <br>He is currently pursuing a PhD in Computer Science from the University of Illinois, Chicago. He is working with Prof. Natalie Parde who co-directs the Natural Language Processing laboratory.<br>
 Javed holds a BS in Computer Engineering from University of Pune and an MBA from UC Berkeley.
 <br> He can be reached at thoughttrain@berkeley.edu**
 
