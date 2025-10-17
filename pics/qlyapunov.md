@@ -21,22 +21,8 @@ title: Quantum Lyapunov Functions
 **Abstract**. &mdash; <br>
 We study continuous, adversarially robust control of distributed quantum
 substrates that must operate without measurement-induced interruptions. Our
-first contribution is an ancilla-safe weak-monitoring layer: via a Naimark dila-
-tion, each agent couples a fresh monitor ancilla to its data qubit and measures
-only the ancilla, thereby reproducing a symmetric weak POVM on the data
-without collapsing the live register. These telemetry signals can be privately
-aggregated (e.g., via MPC) to trigger remediation.
-Our second contribution is a fully unitary, measurement-free greedy Lya-
-punov healing procedure that provably decreases a composite Lyapunov func-
-tional at every cycle. Working in the density-matrix model, we give closed-form
-angles for (i) local single-qubit alignment that minimizes each site’s excited-
-population term, and (ii) conditional pairwise controlled rotations that reduce
-joint |11〉 mass along an interaction graph. Each substep is an exact minimizer
-for its targeted term and leaves non-targeted terms invariant, implying mono-
-tone descent. We provide a two-agent worked example in density matrices and
-a general n-agent formulation.
-Together, ancilla-safe monitoring and greedy Lyapunov healing yield a non-
-destructive, streaming-compatible framework for resilient quantum services—e.g.,
-smart-vehicle substrates and censorship-resilient secure messaging—supporting
-continuous anomaly detection (telemetry) and autonomous recovery (unitary
-control)
+first contribution is an ancilla-safe weak-monitoring layer: via a Naimark dilation, each agent couples a fresh monitor ancilla to its data qubit and measures only the ancilla, thereby reproducing a symmetric weak POVM on the data without collapsing the live register. These telemetry signals can be privately aggregated (e.g., via MPC) to trigger remediation.
+Our second contribution is a fully unitary, measurement-free greedy Lyapunov healing procedure that provably decreases a composite Lyapunov functional at every cycle. Working in the density-matrix model, we give closed-form angles for (i) local single-qubit alignment that minimizes each site’s excited-population term, and (ii) conditional pairwise controlled rotations that reduce
+joint |11〉 mass along an interaction graph. Each substep is an exact minimizer for its targeted term and leaves non-targeted terms invariant, implying monotone descent. We provide a two-agent worked example in density matrices and a general n-agent formulation.
+
+Together, ancilla-safe monitoring and greedy Lyapunov healing yield a non-destructive, streaming-compatible framework for resilient quantum services—e.g., smart-vehicle substrates and censorship-resilient secure messaging—supporting continuous anomaly detection (telemetry) and autonomous recovery (unitary control)
