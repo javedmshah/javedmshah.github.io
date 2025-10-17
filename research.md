@@ -17,6 +17,18 @@ description: Javed Shah's research activities
 <table class="wide">
 <tr>
   <td class="left">
+    <a href="pics/qlyapunov.html">
+        <img style="float: center;" src="pics/qlyapunov.png" alt="Quantum Lyapunov Functions" title="Quantum Lyapunov Functions" />
+    </a>
+  </td>
+  <td class="right">
+  <a href="pics/psqa.html">
+      <img style="float: center;" src="pics/psqa.png" alt="Policy Subversive Quantum Algorithms" title="Policy Subversive Quantum Algorithms" />
+  </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
     <a href="pics/exploits.html">
         <img style="float: center;" src="pics/post_exploits.png" alt="Post-Covid19 Exploits" title="Pre Covid19 Exploit Map" />
     </a>
