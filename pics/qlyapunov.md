@@ -7,11 +7,11 @@ title: Quantum Lyapunov Functions
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="triggers.html">prev</a></li>          
+          <li><a href="exploits.html">prev</a></li>          
           <li><a href="{{ BASE_PATH }}/jshah-public.pdf">cv</a></li>
           <li><a href="https://github.com/javedmshah">github</a></li>
           <li><a href="https://linkedin.com/in/javedmaqboolshah">LinkedIn</a></li>
-          <li><a href="exploits.html">next</a></li>          
+          <li><a href="psqa.html">next</a></li>          
       </ul>
   </div>
 </div>
