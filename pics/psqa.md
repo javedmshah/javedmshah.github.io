@@ -16,7 +16,7 @@ title: PSQA
   </div>
 </div>
 
-#### Surveying exploitation of labor in the aftermath of Covid19
+#### Proposing a theory of policy-subversive algorithms to improve quantum anomaly detection
 
 **Abstract**. &mdash; <br>
 We develop a theory of policy-subversive quantum algorithms (PSQAs): circuits
