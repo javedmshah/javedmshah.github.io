@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Javed M Shah
-description: Javed has over twenty years of experience building software products for startups. He is currently pursuing a master of science in computer science from the University of Illinois, Chicago and a masters in data science from University of Illinois, Urbana-Champaign. Javed holds a BS in Computer Engineering from the University of Pune and an MBA from the University of California, Berkeley. Javed is passionate about research in permissionless systems, incentive design, computational science and machine learning. His work on the multifaceted role of agency in shaping political landscapes has been published in the International Political Science Abstracts. He is a versatile technologist and researcher with deep empathy for building socially responsible innovation.
+description: Javed has over twenty years of experience building software products for startups. He is a PhD candidate in computer science at the University of Illinois Chicago. Javed holds a BS in Computer Engineering from the University of Pune and an MBA from the University of California, Berkeley. Javed is passionate about research in quantum computing and machine learning applications to cybersecurity. He is also interested in computational sociology, with several peer-reviewed publications on the multifaceted role of agency in shaping political landscapes. He is a versatile technologist and researcher with deep empathy for building socially responsible innovation.
 keywords: identity, microservices, artificial intelligence, machine learning, security, policies, data, platform, berkeley
 ---
 <img src="{{ BASE_PATH }}/jshah.jpg" alt="image" width="33%" height="auto">
@@ -17,39 +17,20 @@ keywords: identity, microservices, artificial intelligence, machine learning, se
       </ul>
   </div>
 </div>
-**Javed runs product management for startups. <br>He is currently pursuing a PhD in Computer Science from the University of Illinois, Chicago. He is working with Prof. Natalie Parde who co-directs the Natural Language Processing laboratory.<br>
-Javed holds a BS in Computer Engineering from University of Pune and an MBA from UC Berkeley.
-<br> He can be reached at thoughttrain@berkeley.edu**
+**Javed has over twenty years of experience building software products for startups. He is a PhD candidate in computer science at the University of Illinois Chicago. Javed holds a BS in Computer Engineering from the University of Pune and an MBA from the University of California, Berkeley. Javed is passionate about research in quantum computing and machine learning applications to cybersecurity. He is also interested in computational sociology, with several peer-reviewed publications on the multifaceted role of agency in shaping political landscapes. He is a versatile technologist and researcher with deep empathy for building socially responsible innovation.**
 
 Highlights of his work experience: <br>
-**Ohio University**
-AI and ML Researcher (part-time) <br>
-Social network analysis, agent-based modeling, data mining, simulation, artificial intelligence and machine learning.
+**Pellera**
+Managing Product Principal <br>
+Leads $25M plus in product portfolio for Pellera. Active in building product and platform roadmaps for cross-industry clients.
 
 **1Kosmos Inc.**
-Global Head of Product <br>
+VP of Product <br>
 Responsible for defining and executing the vision and roadmap for a know your customer identity assurance platform. Designed and built [developer.1kosmos.com](https://developer.1kosmos.com){:target="_blank"}. Brought several zero-day-secure multi-factor authentication innovations to market.
 
 **ForgeRock**
 Sr. Director of Product, Identity Cloud <br>
 Designed and built the global ForgeRock Identity Cloud service on kubernetes in Google Cloud. Led North and Latin America pre-sales with a $21M P&L responsibility. Brought dozens of IAM-focused cybersecurity innovations to the market.
-
-**Prolifics Inc.**
-Director of Professional Services, Americas <br>
-Responsible for a shared $11M P&L with other directors, managed a professional services team of security consultants in the US. Served as lead architect for identity and access management projects.
-
-**University of California, San Francisco**
-Program Architect, Identity & Access Management <br>
-Designed and operationalized the UCSF [myaccess.ucsf.edu](https://myaccess.ucsf.edu){:target="_blank"} portal that serves over 150,000 students and staff.
-
-**Kaiser Permanente**
-Architect, Identity & Access Management Services <br>
-Designed and built [Healthy KP](https://healthy.kaiserpermanente.org){:target="_blank"}, a global service serving 500,000 users for Kaiser Permanente.
-
-**Persistent Systems, Inc.**
-Senior Staff Software Engineer, Identity <br>
-Senior software developer on the IBM Tivoli Identity platform.
-
 
 **Yahoo Finance** [Press report mentioning Javed](https://finance.yahoo.com/news/1kosmos-present-rollout-blueprint-secure-130300726.html){:target="_blank"} <br>
 **Business Wire** [Press report on Javed](https://www.businesswire.com/news/home/20230314005300/en/1Kosmos-to-Present-Rollout-Blueprint-for-Secure-Passwordless-Access-at-2023-Gartner-IAM-Conference){:target="_blank"}<br>
