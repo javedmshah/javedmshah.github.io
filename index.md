@@ -4,7 +4,7 @@ title: Javed M Shah
 description: Javed has over twenty years of experience building software products for startups. He is a PhD candidate in computer science at the University of Illinois Chicago. Javed holds a BS in Computer Engineering from the University of Pune and an MBA from the University of California, Berkeley. Javed is passionate about research in quantum computing and machine learning applications to cybersecurity. He is also interested in computational sociology, with several peer-reviewed publications on the multifaceted role of agency in shaping political landscapes. He is a versatile technologist and researcher with deep empathy for building socially responsible innovation.
 keywords: identity, microservices, artificial intelligence, machine learning, security, policies, data, platform, berkeley
 ---
-<img src="{{ BASE_PATH }}/jshah.jpg" alt="image" width="33%" height="auto">
+<img src="{{ BASE_PATH }}/jshah.png" alt="image" width="33%" height="auto">
 
 <div class="navbar">
   <div class="navbar-inner">
