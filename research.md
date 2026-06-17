@@ -18,7 +18,7 @@ description: Javed Shah's research activities
 <tr>
   <td class="left">
     <a href="pics/btce.html">
-        <img style="float: center;" src="pics/btce.png" alt="Bayesian Temporal Equillibrium" title="Bayesian Temporal Equillibrium for Insider Threat Detection />
+        <img style="float: center;" src="pics/btce.png" alt="Bayesian Temporal Equillibrium" title="Bayesian Temporal Equillibrium for Insider Threat Detection" />
     </a>
   </td>
   <td class="right">
