@@ -1,0 +1,61 @@
+---
+layout: frontpage
+title: Hawkes Identifiability
+---
+
+
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="btce.html">prev</a></li>
+          <li><a href="{{ BASE_PATH }}/jshah-public.pdf">cv</a></li>
+          <li><a href="https://github.com/javedmshah">github</a></li>
+          <li><a href="https://linkedin.com/in/javedmaqboolshah">LinkedIn</a></li>
+          <li><a href="emotion_agency.html">next</a></li>
+      </ul>
+  </div>
+</div>
+
+#### Identifiability of episodic activity in regime-switching marked Hawkes processes
+
+**Abstract**. &mdash; <br>
+Coordinated behavior is often brief, directional, and routed through particular
+channels; when collapsed to a time-averaged or unmarked anomaly score, the
+structure can disappear. This paper studies when episodic directed activity is
+identifiable and recoverable in regime-switching marked multivariate Hawkes
+processes. The model separates routine excitation from active-state excitation,
+gates cross-excitation at event birth rather than observation time, and
+factorizes active interactions into sender and receiver roles with mark-transition
+channels. We show that recovery requires sufficient active-born exposure,
+dormant-active separation, birth-time attribution, and a normalization that
+separates actor coupling from mark routing; without these conditions, distinct
+explanations collapse to the same observed law. These results motivate a
+birth-time-gated estimator with role-separated gates, asymmetric directional
+structure, and generalized-EM activation recovery. Synthetic experiments and
+real-background checks on hippocampal CA1 and FTX-collapse trade-event data show
+recovery of planted member sets, receiver targets, and mark-transition channels
+under the characterized conditions, while source attribution remains confounded
+when endogenous activity mimics the active episode. The paper turns
+coordination from a scalar anomaly into a recoverable who-to-whom,
+through-which-channel, and when structure.
+
+**Core idea**. &mdash; <br>
+The security-relevant object is not simply that an event stream became more
+active. It is the shape of the episode: who activates whom, through which marks
+or channels, at what time, and under which latent regime.
+
+**Contributions**. &mdash; <br>
+(i) Identifiability conditions for active marked Hawkes kernels under
+regime-switching dynamics. (ii) Impossibility results showing how scalar,
+unmarked, or time-averaged projections destroy recoverability. (iii) A
+birth-time-gated marked Hawkes estimator with role-separated sender and receiver
+structure. (iv) Empirical checks across synthetic planted episodes, hippocampal
+CA1 spike-ins, and FTX-collapse trade-event data.
+
+**Status**. &mdash; <br>
+Working paper. Draft and reproducibility materials will be linked here when
+released.
+
+**Keywords**. &mdash; <br>
+Marked point processes; Hawkes processes; identifiability; episodic coordination;
+latent regimes; directed networks; anomaly detection; trust geometry.

@@ -17,13 +17,13 @@ description: Javed Shah's research activities
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pics/qlyapunov.html">
-        <img style="float: center;" src="pics/qlyapunov.png" alt="Quantum Lyapunov Functions" title="Quantum Lyapunov Functions" />
+    <a href="pics/btce.html">
+        <img style="float: center;" src="pics/btce.png" alt="Bayesian Temporal Equillibrium" title="Bayesian Temporal Equillibrium for Insider Threat Detection />
     </a>
   </td>
   <td class="right">
-  <a href="pics/psqa.html">
-      <img style="float: center;" src="pics/psqa.png" alt="Policy Subversive Quantum Algorithms" title="Policy Subversive Quantum Algorithms" />
+  <a href="pics/hawkes_identifiability.html">
+      <img style="float: center;" src="pics/hawkes.png" alt="Identifiabiltiy of Episodic Coordination in Point Processes" title="Identifiabiltiy of Episodic Coordination in Point Processes" />
   </a>
   </td>
 </tr>
