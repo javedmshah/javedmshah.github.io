@@ -52,7 +52,7 @@ evidence drift. (iv) Byzantine-resilient committee aggregation that degrades
 gracefully when some certifiers are compromised.
 
 **Status**. &mdash; <br>
-Working paper. Draft and code will be linked here when released.
+Accepted in the oral track at <li><a href="https://www.gamesec-conf.org/">GameSec 2026</a></li>
 
 **Keywords**. &mdash; <br>
 Bayesian games; correlated equilibrium; insider-threat detection; dynamic
