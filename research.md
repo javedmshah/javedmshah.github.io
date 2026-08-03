@@ -14,6 +14,16 @@ description: Javed Shah's research activities
   </div>
 </div>
 
+### Current project: "Mechanism"
+
+Game theoretic online intervention defense for language model agents that studies how to coordinated critics and observers stop harmful agent trajectories before irreversible damage.
+
+The public development record preserves intentionally incomplete snapshots from
+three stages of the project, including open questions, `TBD` experiments, and
+changes to the final empirical claim.
+
+[Read "Mechanism" development snapshots: v0.1 → v0.2 → v0.3](pics/orbit_versions.html)
+
 <table class="wide">
 <tr>
   <td class="left">
