@@ -17,7 +17,7 @@ description: Javed Shah's publications
 ### <a name="cs-research"></a>cs research
 #### 2026
 <br><a href="https://journals.sagepub.com/doi/10.1177/00208345241232769">Shah et al. Bayesian-Temporal Correlated Equilibrium for early insider-threat intervention.</a> 
-GameSec 2026 (oral track). <\br>
+GameSec 2026 (oral track). 
 
 #### 2025
 ***Survey of Human Trafficking in the aftermath of Covid*** <br>
